@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="26px" height="26px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve" opacity="0.75">
+<line fill="none" stroke="#000000" stroke-width="2.245" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5" y1="9" x2="11" y2="9"/>
+<line fill="none" stroke="#000000" stroke-width="2.245" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9" y1="13" x2="15" y2="13"/>
+<line fill="none" stroke="#000000" stroke-width="2.245" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="17" x2="18" y2="17"/>
+<line fill="none" stroke="#000000" stroke-width="2.245" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5" y1="21" x2="11" y2="21"/>
+
+<path fill="#000000" d="M23,1H3C1.344,1,0,2.343,0,4v19c0,1.656,1.344,3,3,3h20c1.656,0,3-1.344,3-3V4C26,2.343,24.656,1,23,1z   M24,23c0,0.551-0.449,1-1,1H3c-0.551,0-1-0.449-1-1V6h22V23z"/>
+</svg>
