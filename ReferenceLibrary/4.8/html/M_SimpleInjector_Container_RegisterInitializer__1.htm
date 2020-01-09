@@ -1,0 +1,121 @@
+﻿<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link rel="shortcut icon" href="../icons/favicon.ico" /><style type="text/css">.OH_CodeSnippetContainerTabLeftActive, .OH_CodeSnippetContainerTabLeft,.OH_CodeSnippetContainerTabLeftDisabled { }.OH_CodeSnippetContainerTabRightActive, .OH_CodeSnippetContainerTabRight,.OH_CodeSnippetContainerTabRightDisabled { }.OH_footer { }</style><link rel="stylesheet" type="text/css" href="../styles/branding.css" /><link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" /><script type="text/javascript" src="../scripts/branding.js"> </script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Container.RegisterInitializer(TService) Method (Action(TService))</title><meta name="Language" content="en-us" /><meta name="Microsoft.Help.Id" content="M:SimpleInjector.Container.RegisterInitializer``1(System.Action{``0})" /><meta name="Description" content="Registers an delegate that runs after the creation of instances that implement or derive from the given . Please note that only instances that are created by the container (using constructor injection) can be initialized this way." /><meta name="Microsoft.Help.ContentType" content="Reference" /><meta name="BrandingAware" content="true" /><meta name="container" content="SimpleInjector" /><meta name="file" content="M_SimpleInjector_Container_RegisterInitializer__1" /><meta name="guid" content="M_SimpleInjector_Container_RegisterInitializer__1" /><link type="text/css" rel="stylesheet" href="../styles/highlight.css" /><script type="text/javascript" src="../scripts/highlight.js"> </script><script type="text/javascript" src="../scripts/clipboard.min.js"></script></head><body onload="OnLoad('cs')"><input type="hidden" id="userDataCache" class="userDataStyle" /><div class="OH_outerDiv"><div class="OH_outerContent"><table class="TitleTable"><tr><td class="OH_tdTitleColumn"><h1>Container<span id="LSTDC73245F_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_0?cpp=::|nu=.");</script>RegisterInitializer<span id="LSTDC73245F_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_1?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script><span class="typeparameter">TService</span><span id="LSTDC73245F_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_2?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script> Method (Action<span id="LSTDC73245F_3"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_3?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script><span class="typeparameter">TService</span><span id="LSTDC73245F_4"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_4?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script>)</h1></td><td class="OH_tdRunningTitleColumn">Simple Injector</td></tr></table><div id="mainSection"><div id="mainBody"><span class="introStyle"></span> <div class="summary">
+             Registers an <a href="https://docs.microsoft.com/dotnet/api/system.action-1" target="_blank">Action<span id="LSTDC73245F_5"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_5?cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'");</script>T<span id="LSTDC73245F_6"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_6?cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;");</script></a> delegate that runs after the creation of instances that
+             implement or derive from the given <span class="typeparameter">TService</span>. Please note that only instances
+             that are created by the container (using constructor injection) can be initialized this way.
+             </div><p> </p>
+    <strong>Namespace:</strong> 
+   <a href="N_SimpleInjector.htm">SimpleInjector</a><br />
+    <strong>Assembly:</strong>
+   SimpleInjector (in SimpleInjector.dll) Version: 4.8.0<div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Syntax</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"> </div><div class="OH_CodeSnippetContainer"><div class="OH_CodeSnippetContainerTabs"><div class="OH_CodeSnippetContainerTabLeft" id="ID0ECCA_tabimgleft"> </div><div id="ID0ECCA_tab1" class="OH_CodeSnippetContainerTabFirst"><a href="#" onclick="javascript:ChangeTab('ID0ECCA','cs','1','3');return false;">C#</a></div><div id="ID0ECCA_tab2" class="OH_CodeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0ECCA','vb','2','3');return false;">VB</a></div><div id="ID0ECCA_tab3" class="OH_CodeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0ECCA','asp','3','3');return false;">ASP.NET</a></div><div class="OH_CodeSnippetContainerTabRight" id="ID0ECCA_tabimgright"> </div></div><div class="OH_CodeSnippetContainerCodeCollection"><div class="OH_CodeSnippetToolBar"><div class="OH_CodeSnippetToolBarText"><a id="ID0ECCA_copyCode" href="#" class="OH_copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0ECCA');return false;" title="Copy">Copy</a></div></div><div id="ID0ECCA_code_Div1" class="OH_CodeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="keyword">public</span> <span class="keyword">void</span> <span class="identifier">RegisterInitializer</span>&lt;TService&gt;(
+	<span class="identifier">Action</span>&lt;TService&gt; <span class="parameter">instanceInitializer</span>
+)
+<span class="keyword">where</span> TService : <span class="keyword">class</span>
+</pre></div><div id="ID0ECCA_code_Div2" class="OH_CodeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">Public</span> <span class="keyword">Sub</span> <span class="identifier">RegisterInitializer</span>(<span class="keyword">Of</span> TService <span class="keyword">As</span> <span class="keyword">Class</span>) ( 
+	<span class="parameter">instanceInitializer</span> <span class="keyword">As</span> <span class="identifier">Action</span>(<span class="keyword">Of</span> TService)
+)</pre></div><div id="ID0ECCA_code_Div3" class="OH_CodeSnippetContainerCode" style="display: none"><pre xml:space="preserve" /></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0ECCA");</script><h4 class="subHeading">Parameters</h4><dl><dt><span class="parameter">instanceInitializer</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.action-1" target="_blank">System<span id="LSTDC73245F_7"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_7?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Action</a><span id="LSTDC73245F_8"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_8?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script><span class="selflink"><span class="typeparameter">TService</span></span><span id="LSTDC73245F_9"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_9?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script><br />The delegate that will be called after the instance has been
+             constructed and before it is returned.</dd></dl><h4 class="subHeading">Type Parameters</h4><dl><dt><span class="parameter">TService</span></dt><dd>The type for which the initializer will be registered.</dd></dl><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Exceptions</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"> </div><div class="tableSection"><table><tr><th class="ps_exceptionNameColumn">Exception</th><th class="ps_exceptionConditionColumn">Condition</th></tr><tr><td><a href="https://docs.microsoft.com/dotnet/api/system.argumentnullexception" target="_blank">ArgumentNullException</a></td><td>
+             Thrown when the <span class="parameter">instanceInitializer</span> is a null reference.
+             </td></tr><tr><td><a href="https://docs.microsoft.com/dotnet/api/system.invalidoperationexception" target="_blank">InvalidOperationException</a></td><td>
+             Thrown when this container instance is locked and can not be altered.</td></tr></table></div><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Remarks</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"> </div><p>
+             Multiple <span class="parameter">instanceInitializer</span> delegates can be registered per
+             <span class="typeparameter">TService</span> and multiple initializers can be applied on a created instance,
+             before it is returned. For instance, when registering a <span class="parameter">instanceInitializer</span>
+             for type <a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank">Object</a>, the delegate will be called for every instance created by
+             the container, which can be nice for debugging purposes.
+             </p><p>
+             Note: Initializers are guaranteed to be executed in the order they are registered.
+             </p><p>
+             The following example shows the usage of the
+             <span class="selflink">RegisterInitializer</span> method:
+             </p><div class="OH_CodeSnippetContainer"><div class="OH_CodeSnippetContainerTabs"><div class="OH_CodeSnippetContainerTabLeftActive" id="ID0EACABA_tabimgleft"> </div><div id="ID0EACABA_tab1" class="OH_CodeSnippetContainerTabSolo">C#</div><div class="OH_CodeSnippetContainerTabRightActive" id="ID0EACABA_tabimgright"> </div></div><div class="OH_CodeSnippetContainerCodeCollection"><div class="OH_CodeSnippetToolBar"><div class="OH_CodeSnippetToolBarText"><a id="ID0EACABA_copyCode" href="#" class="OH_copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EACABA');return false;" title="Copy">Copy</a></div></div><div id="ID0EACABA_code_Div1" class="OH_CodeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-keyword">public</span> <span class="highlight-keyword">interface</span> ITimeProvider { DateTime Now { <span class="highlight-keyword">get</span>; } }
+<span class="highlight-keyword">public</span> <span class="highlight-keyword">interface</span> ICommand { <span class="highlight-keyword">bool</span> SendAsync { <span class="highlight-keyword">get</span>; <span class="highlight-keyword">set</span>; } }
+
+<span class="highlight-keyword">public</span> <span class="highlight-keyword">abstract</span> <span class="highlight-keyword">class</span> CommandBase : ICommand
+{
+    ITimeProvider Clock { <span class="highlight-keyword">get</span>; <span class="highlight-keyword">set</span>; }
+
+    <span class="highlight-keyword">public</span> <span class="highlight-keyword">bool</span> SendAsync { <span class="highlight-keyword">get</span>; <span class="highlight-keyword">set</span>; }
+}
+
+<span class="highlight-keyword">public</span> <span class="highlight-keyword">class</span> ConcreteCommand : CommandBase { }
+
+[TestMethod]
+<span class="highlight-keyword">public</span> <span class="highlight-keyword">static</span> <span class="highlight-keyword">void</span> TestRegisterInitializer()
+{
+    <span class="highlight-comment">// Arrange</span>
+    <span class="highlight-keyword">var</span> container = <span class="highlight-keyword">new</span> Container();
+
+    container.Register&lt;ICommand, ConcreteCommand&gt;();
+
+    <span class="highlight-comment">// Configuring property injection for types that implement ICommand:</span>
+    container.RegisterInitializer&lt;ICommand&gt;(command =&gt;
+    {
+        command.SendAsync = <span class="highlight-keyword">true</span>;
+    });
+
+    <span class="highlight-comment">// Configuring property injection for types that implement CommandBase:</span>
+    container.RegisterInitializer&lt;CommandBase&gt;(command =&gt;
+    {
+        command.Clock = container.GetInstance&lt;ITimeProvider&gt;();
+    });
+
+    <span class="highlight-comment">// Act</span>
+    <span class="highlight-keyword">var</span> command = (ConcreteCommand)container.GetInstance&lt;ICommand&gt;();
+
+    <span class="highlight-comment">// Assert</span>
+    <span class="highlight-comment">// Because ConcreteCommand implements both ICommand and CommandBase,</span>
+    <span class="highlight-comment">// both the initializers will have been executed.</span>
+    Assert.IsTrue(command.SendAsync);
+    Assert.IsNotNull(command.Clock);
+}</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EACABA");</script><p>
+             The container does not use the type information of the requested service type, but it uses the
+             type information of the actual implementation to find all initialized that apply for that
+             type. This makes it possible to have multiple initializers to be applied on a single returned
+             instance while keeping performance high.
+             </p><p>
+             Registered initializers will only be applied to instances that are created by the container self
+             (using constructor injection). Types that are newed up manually by supplying a
+             <a href="https://docs.microsoft.com/dotnet/api/system.func-1" target="_blank">Func<span id="LSTDC73245F_10"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_10?cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'");</script>TResult<span id="LSTDC73245F_11"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_11?cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;");</script></a> delegate to the container (using the
+             <a href="M_SimpleInjector_Container_Register__1_2.htm">Register<span id="LSTDC73245F_12"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_12?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>TService<span id="LSTDC73245F_13"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_13?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script>(Func<span id="LSTDC73245F_14"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_14?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>TService<span id="LSTDC73245F_15"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_15?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script>)</a> method) or registered as single instance
+             (using <a href="M_SimpleInjector_Container_RegisterInstance__1.htm">RegisterInstance<span id="LSTDC73245F_16"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_16?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>TService<span id="LSTDC73245F_17"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTDC73245F_17?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script>(TService)</a>) will not trigger initialization.
+             When initialization of these instances is needed, this must be done manually, as can be seen in
+             the following example:
+             <div class="OH_CodeSnippetContainer"><div class="OH_CodeSnippetContainerTabs"><div class="OH_CodeSnippetContainerTabLeftActive" id="ID0EABAABA_tabimgleft"> </div><div id="ID0EABAABA_tab1" class="OH_CodeSnippetContainerTabSolo">C#</div><div class="OH_CodeSnippetContainerTabRightActive" id="ID0EABAABA_tabimgright"> </div></div><div class="OH_CodeSnippetContainerCodeCollection"><div class="OH_CodeSnippetToolBar"><div class="OH_CodeSnippetToolBarText"><a id="ID0EABAABA_copyCode" href="#" class="OH_copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EABAABA');return false;" title="Copy">Copy</a></div></div><div id="ID0EABAABA_code_Div1" class="OH_CodeSnippetContainerCode" style="display: block"><pre xml:space="preserve">[TestMethod]
+<span class="highlight-keyword">public</span> <span class="highlight-keyword">static</span> <span class="highlight-keyword">void</span> TestRegisterInitializer()
+{
+    <span class="highlight-comment">// Arrange</span>
+    <span class="highlight-keyword">int</span> initializerCallCount = <span class="highlight-number">0</span>;
+
+    <span class="highlight-keyword">var</span> container = <span class="highlight-keyword">new</span> Container();
+
+    <span class="highlight-comment">// Define a initializer for ICommand</span>
+    Action&lt;ICommand&gt; commandInitializer = command =&gt;
+    {
+        initializerCallCount++;
+    });
+
+    <span class="highlight-comment">// Configuring that initializer.</span>
+    container.RegisterInitializer&lt;ICommand&gt;(commandInitializer);
+
+    container.Register&lt;ICommand&gt;(() =&gt;
+    {
+        <span class="highlight-comment">// Create a ConcreteCommand manually: will not be initialized.</span>
+        <span class="highlight-keyword">var</span> command = <span class="highlight-keyword">new</span> ConcreteCommand(<span class="highlight-literal">"Data Source=.;Initial Catalog=db;"</span>);
+
+        <span class="highlight-comment">// Run the initializer manually.</span>
+        commandInitializer(command);
+
+        <span class="highlight-keyword">return</span> command;
+    });
+
+    <span class="highlight-comment">// Act</span>
+    <span class="highlight-keyword">var</span> command = container.GetInstance&lt;ICommand&gt;();
+
+    <span class="highlight-comment">// Assert</span>
+    <span class="highlight-comment">// The initializer will only be called once.</span>
+    Assert.AreEqual(<span class="highlight-number">1</span>, initializerCallCount);
+}</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EABAABA");</script>
+             The previous example shows how a manually created instance can still be initialized. Try to
+             prevent creating types manually, by changing the design of those classes. If possible, create a
+             single public constructor that only contains dependencies that can be resolved.
+             </p><div class="OH_CollapsibleAreaRegion" id="seeAlsoSection"><div class="OH_regiontitle">See Also</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"> </div><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="T_SimpleInjector_Container.htm">Container Class</a></div><div class="seeAlsoStyle"><a href="Overload_SimpleInjector_Container_RegisterInitializer.htm">RegisterInitializer Overload</a></div><div class="seeAlsoStyle"><a href="N_SimpleInjector.htm">SimpleInjector Namespace</a></div></div></div></div></div><div id="OH_footer" class="OH_footer"><p>Copyright (c) Simple Injector Contributors</p> </div></body></html>
