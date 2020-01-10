@@ -1,0 +1,1 @@
+dotnet redirector/redirector.dll redirector/redirecttemplate.html redirects.txt
