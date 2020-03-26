@@ -1048,8 +1048,8 @@
   </HelpKINode>
   <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.. explicitly implemented method">
     <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.IDependencyResolver.BeginScope Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyResolver_BeginScope.htm" />
-    <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.IDependencyScope.Type) Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyScope_GetService.htm" />
     <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.IDependencyScope.Type) Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyScope_GetServices.htm" />
+    <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.IDependencyScope.Type) Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyScope_GetService.htm" />
   </HelpKINode>
   <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.Dispose method" Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_Dispose.htm" />
   <HelpKINode Title="SimpleInjectorWebApiDependencyResolver.SimpleInjectorWebApiDependencyResolver constructor" Url="html/Overload_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver__ctor.htm" />
