@@ -62,6 +62,14 @@ generichost	https://simpleinjector.readthedocs.io/en/latest/generichostintegrati
 servicecollection	https://simpleinjector.readthedocs.io/en/latest/servicecollectionintegration.html
 servicecollection+logging	https://simpleinjector.readthedocs.io/en/latest/servicecollectionintegration.html#integrating-with-microsoft-logging
 howto	https://simpleinjector.readthedocs.io/en/latest/howto.html
+howto+register-factory-delegates	https://simpleinjector.readthedocs.io/en/latest/howto.html#register-factory-delegates
+howto+lazy	https://simpleinjector.readthedocs.io/en/latest/howto.html#lazy
+howto+resolve-instances-by-key	https://simpleinjector.readthedocs.io/en/latest/howto.html#resolve-instances-by-key
+howto+register-multiple-interfaces-with-the-same-implementation	https://simpleinjector.readthedocs.io/en/latest/howto.html#register-multiple-interfaces-with-the-same-implementation
+howto+override-existing-registrations	https://simpleinjector.readthedocs.io/en/latest/howto.html#override-existing-registrations
+howto+verify-the-container-s-configuration	https://simpleinjector.readthedocs.io/en/latest/howto.html#verify-the-container-s-configuration
+howto+multi-threading	https://simpleinjector.readthedocs.io/en/latest/howto.html#work-with-dependency-injection-in-multi-threaded-applications
+howto+package-registrations	https://simpleinjector.readthedocs.io/en/latest/howto.html#package-registrations
 decisions	https://simpleinjector.readthedocs.io/en/latest/decisions.html
 noprop	https://simpleinjector.readthedocs.io/en/latest/decisions.html#no-property-injection
 locked	https://simpleinjector.readthedocs.io/en/latest/decisions.html#the-container-is-locked-after-the-first-call-to-resolve
