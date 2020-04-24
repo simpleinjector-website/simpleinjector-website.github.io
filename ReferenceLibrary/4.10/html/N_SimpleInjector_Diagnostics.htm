@@ -1,0 +1,50 @@
+﻿<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link rel="shortcut icon" href="../icons/favicon.ico" /><style type="text/css">.OH_CodeSnippetContainerTabLeftActive, .OH_CodeSnippetContainerTabLeft,.OH_CodeSnippetContainerTabLeftDisabled { }.OH_CodeSnippetContainerTabRightActive, .OH_CodeSnippetContainerTabRight,.OH_CodeSnippetContainerTabRightDisabled { }.OH_footer { }</style><link rel="stylesheet" type="text/css" href="../styles/branding.css" /><link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" /><script type="text/javascript" src="../scripts/branding.js"> </script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>SimpleInjector.Diagnostics Namespace</title><meta name="Language" content="en-us" /><meta name="System.Keywords" content="SimpleInjector.Diagnostics namespace" /><meta name="Microsoft.Help.F1" content="SimpleInjector.Diagnostics" /><meta name="Microsoft.Help.Id" content="N:SimpleInjector.Diagnostics" /><meta name="Description" content="The SimpleInjector.Diagnostics namespace contains diagnostic features for Simple Injector." /><meta name="Microsoft.Help.ContentType" content="Reference" /><meta name="BrandingAware" content="true" /><meta name="container" content="SimpleInjector.Diagnostics" /><meta name="file" content="N_SimpleInjector_Diagnostics" /><meta name="guid" content="N_SimpleInjector_Diagnostics" /><link type="text/css" rel="stylesheet" href="../styles/highlight.css" /><script type="text/javascript" src="../scripts/highlight.js"> </script><script type="text/javascript" src="../scripts/clipboard.min.js"></script></head><body onload="OnLoad('cs')"><input type="hidden" id="userDataCache" class="userDataStyle" /><div class="OH_outerDiv"><div class="OH_outerContent"><table class="TitleTable"><tr><td class="OH_tdTitleColumn"><h1>SimpleInjector.Diagnostics Namespace</h1></td><td class="OH_tdRunningTitleColumn">Simple Injector</td></tr></table><div id="mainSection"><div id="mainBody"><span class="introStyle"></span> <div class="summary">The SimpleInjector.Diagnostics namespace contains diagnostic features for Simple Injector.</div><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Classes</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"> </div><table class="members" id="classList"><tr><th class="ps_iconColumn">
+					 
+				</th><th>Class</th><th>Description</th></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult.htm">AmbiguousLifestylesDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result that warns about when a multiple registrations map to the same implementation type
+            and lifestyle, which might cause multiple instances to be created during the lifespan of that lifestyle.
+            For more information, see: https://simpleinjector.org/diaal.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="T_SimpleInjector_Diagnostics_Analyzer.htm">Analyzer</a></td><td><div class="summary">
+             Entry point for doing diagnostic analysis on <a href="T_SimpleInjector_Container.htm">Container</a> instances.
+             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_ContainerRegisteredServiceDiagnosticResult.htm">ContainerRegisteredServiceDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result for a warning about a concrete type that was not registered explicitly and was not
+            resolved using unregistered type resolution, but was created by the container using the transient
+            lifestyle.
+            For more information, see: https://simpleinjector.org/diaut.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_DiagnosticGroup.htm">DiagnosticGroup</a></td><td><div class="summary">
+            A hierarchical group of <a href="T_SimpleInjector_Diagnostics_DiagnosticResult.htm">DiagnosticResult</a>.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_DiagnosticResult.htm">DiagnosticResult</a></td><td><div class="summary">
+            Base class for types that hold information about a single diagnostic message or warning for a
+            particular type or part of the configuration.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_DisposableTransientComponentDiagnosticResult.htm">DisposableTransientComponentDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result for a warning about a component that is registered as transient, but implements
+            <a href="https://docs.microsoft.com/dotnet/api/system.idisposable" target="_blank">IDisposable</a>.
+            For more information, see: https://simpleinjector.org/diadt.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_LifestyleMismatchDiagnosticResult.htm">LifestyleMismatchDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result for a warning about a
+            component that depends on a service with a lifestyle that is shorter than that of the component.
+            For more information, see: https://simpleinjector.org/dialm.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult.htm">ShortCircuitedDependencyDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result that warns about a
+            component that depends on an unregistered concrete type and this concrete type has a lifestyle that is
+            different than the lifestyle of an explicitly registered type that uses this concrete type as its
+            implementation.
+            For more information, see: https://simpleinjector.org/diasc.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult.htm">SingleResponsibilityViolationDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result that warns about a component that depends on (too) many services.
+            For more information, see: https://simpleinjector.org/diasr.
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult.htm">TornLifestyleDiagnosticResult</a></td><td><div class="summary">
+            Diagnostic result that warns about when a multiple registrations map to the same implementation type
+            and lifestyle, which might cause multiple instances to be created during the lifespan of that lifestyle.
+            For more information, see: https://simpleinjector.org/diatl.
+            </div></td></tr></table><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Enumerations</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"> </div><table class="members" id="enumerationList"><tr><th class="ps_iconColumn">
+					 
+				</th><th>Enumeration</th><th>Description</th></tr><tr data="enumeration; public"><td><img src="../icons/pubenumeration.gif" alt="Public enumeration" title="Public enumeration" /></td><td><a href="T_SimpleInjector_Diagnostics_DiagnosticSeverity.htm">DiagnosticSeverity</a></td><td><div class="summary">
+            Specifies the list of severity levels that diagnostic results can have.
+            </div></td></tr><tr data="enumeration; public"><td><img src="../icons/pubenumeration.gif" alt="Public enumeration" title="Public enumeration" /></td><td><a href="T_SimpleInjector_Diagnostics_DiagnosticType.htm">DiagnosticType</a></td><td><div class="summary">
+            Specifies the list of diagnostic types that are currently supported by the diagnostic
+            <a href="T_SimpleInjector_Diagnostics_Analyzer.htm">Analyzer</a>. Note that new diagnostic types might be added in future versions.
+            For more information, please read the
+            <a href="https://simpleinjector.org/diagnostics">Diagnosing your configuration using the Diagnostic
+            Services</a> wiki documentation.
+            </div></td></tr></table></div></div></div></div><div id="OH_footer" class="OH_footer"><p>Copyright (c) Simple Injector Contributors</p> </div></body></html>
