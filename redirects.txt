@@ -87,6 +87,16 @@ decisions+limited-auto-registration-api	https://simpleinjector.readthedocs.io/en
 decisions+no-per-thread-lifestyle	https://simpleinjector.readthedocs.io/en/latest/decisions.html#no-per-thread-lifestyle
 decisions+one-constructor	https://simpleinjector.readthedocs.io/en/latest/decisions.html#allow-only-a-single-constructor
 decisions+no-optional-arguments	https://simpleinjector.readthedocs.io/en/latest/decisions.html#no-support-for-optional-constructor-arguments
+extensibility	https://simpleinjector.readthedocs.io/en/latest/extensibility.html
+extensibility+overriding-constructor-resolution-behavior	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-constructor-resolution-behavior
+extensibility+overriding-property-injection-behavior	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-property-injection-behavior
+extensibility+overriding-parameter-injection-behavior	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-parameter-injection-behavior
+extensibility+resolving-unregistered-types	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#resolving-unregistered-types
+extensibility+overriding-lifestyle-selection-behavior	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-lifestyle-selection-behavior
+extensibility+intercepting-the-creation-of-types	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#intercepting-the-creation-of-types
+extensibility+building-up-external-instances	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#building-up-external-instances
+extensibility+interception-of-resolved-object-graphs	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#interception-of-resolved-object-graphs
+extensibility+container-locking	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#container-locking
 noprop	https://simpleinjector.readthedocs.io/en/latest/decisions.html#no-property-injection
 separate-collections	https://simpleinjector.readthedocs.io/en/latest/decisions.html#separate-collections
 one-constructor	https://simpleinjector.readthedocs.io/en/latest/decisions.html#one-constructor
