@@ -1,56 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="144c964e-3f9b-4ee4-b7df-510ca4e7485e" Title="SimpleInjector" Url="html/N_SimpleInjector.htm">
-    <HelpTOCNode Id="2972f954-466c-44c1-8172-8289d4994754" Title="ActivationException Class" Url="html/T_SimpleInjector_ActivationException.htm">
-      <HelpTOCNode Id="4c903a2c-5f95-40ec-a8e7-7942b7ced869" Title="ActivationException Constructor " Url="html/Overload_SimpleInjector_ActivationException__ctor.htm">
+  <HelpTOCNode Id="9b24b6c4-a6ac-454d-896b-a35748e9d61a" Title="SimpleInjector" Url="html/N_SimpleInjector.htm">
+    <HelpTOCNode Id="4d45eb86-bd32-4e57-b59e-61ced449ec16" Title="ActivationException Class" Url="html/T_SimpleInjector_ActivationException.htm">
+      <HelpTOCNode Id="46238e3d-f39a-4a9c-bc59-cd7bb935b2fb" Title="ActivationException Constructor " Url="html/Overload_SimpleInjector_ActivationException__ctor.htm">
         <HelpTOCNode Title="ActivationException Constructor " Url="html/M_SimpleInjector_ActivationException__ctor.htm" />
         <HelpTOCNode Title="ActivationException Constructor (String)" Url="html/M_SimpleInjector_ActivationException__ctor_2.htm" />
         <HelpTOCNode Title="ActivationException Constructor (SerializationInfo, StreamingContext)" Url="html/M_SimpleInjector_ActivationException__ctor_1.htm" />
         <HelpTOCNode Title="ActivationException Constructor (String, Exception)" Url="html/M_SimpleInjector_ActivationException__ctor_3.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7b9f8d85-3184-4d42-b474-1f96ee516f83" Title="Container Class" Url="html/T_SimpleInjector_Container.htm">
+    <HelpTOCNode Id="c945f7d4-bb78-4271-af5c-f0143c579427" Title="Container Class" Url="html/T_SimpleInjector_Container.htm">
       <HelpTOCNode Title="Container Constructor " Url="html/M_SimpleInjector_Container__ctor.htm" />
-      <HelpTOCNode Id="6cd8312d-51f9-4316-99cf-86a8c63fda66" Title="Container Properties" Url="html/Properties_T_SimpleInjector_Container.htm">
+      <HelpTOCNode Id="80b076ba-2de1-4fe9-ae36-58a35d91e57c" Title="Container Properties" Url="html/Properties_T_SimpleInjector_Container.htm">
         <HelpTOCNode Title="Collection Property " Url="html/P_SimpleInjector_Container_Collection.htm" />
         <HelpTOCNode Title="Collections Property " Url="html/P_SimpleInjector_Container_Collections.htm" />
         <HelpTOCNode Title="ContainerScope Property " Url="html/P_SimpleInjector_Container_ContainerScope.htm" />
         <HelpTOCNode Title="IsVerifying Property " Url="html/P_SimpleInjector_Container_IsVerifying.htm" />
         <HelpTOCNode Title="Options Property " Url="html/P_SimpleInjector_Container_Options.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a954df4f-2c0c-4f6d-917f-393951f5035f" Title="Container Methods" Url="html/Methods_T_SimpleInjector_Container.htm">
+      <HelpTOCNode Id="60066038-2bb4-401a-aa1d-77c09aa4610f" Title="Container Methods" Url="html/Methods_T_SimpleInjector_Container.htm">
         <HelpTOCNode Title="IServiceProvider.GetService Method " Url="html/M_SimpleInjector_Container_System_IServiceProvider_GetService.htm" />
-        <HelpTOCNode Id="772273b4-d904-4ce3-a299-ac64ab785a44" Title="AddRegistration Method " Url="html/Overload_SimpleInjector_Container_AddRegistration.htm">
+        <HelpTOCNode Id="c3e21719-dfb9-4ce1-aecb-b79842b7b4c9" Title="AddRegistration Method " Url="html/Overload_SimpleInjector_Container_AddRegistration.htm">
           <HelpTOCNode Title="AddRegistration(TService) Method (Registration)" Url="html/M_SimpleInjector_Container_AddRegistration__1.htm" />
           <HelpTOCNode Title="AddRegistration Method (Type, Registration)" Url="html/M_SimpleInjector_Container_AddRegistration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="663db4e1-b3c7-4253-beb2-50975f792fdf" Title="Dispose Method " Url="html/Overload_SimpleInjector_Container_Dispose.htm">
+        <HelpTOCNode Id="eb815382-c403-4f2f-9d10-422fb4e90793" Title="Dispose Method " Url="html/Overload_SimpleInjector_Container_Dispose.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SimpleInjector_Container_Dispose.htm" />
           <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_SimpleInjector_Container_Dispose_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ede567c1-bc76-40e8-9ea0-bd40ba756d3e" Title="GetAllInstances Method " Url="html/Overload_SimpleInjector_Container_GetAllInstances.htm">
+        <HelpTOCNode Id="9441dd7f-0774-45a4-a082-59b332268856" Title="GetAllInstances Method " Url="html/Overload_SimpleInjector_Container_GetAllInstances.htm">
           <HelpTOCNode Title="GetAllInstances(TService) Method " Url="html/M_SimpleInjector_Container_GetAllInstances__1.htm" />
           <HelpTOCNode Title="GetAllInstances Method (Type)" Url="html/M_SimpleInjector_Container_GetAllInstances.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetCurrentRegistrations Method " Url="html/M_SimpleInjector_Container_GetCurrentRegistrations.htm" />
-        <HelpTOCNode Id="6c35ac15-dd14-4a27-a308-420b9ce279b8" Title="GetInstance Method " Url="html/Overload_SimpleInjector_Container_GetInstance.htm">
+        <HelpTOCNode Id="6428f09d-1b78-4606-a2e3-394c4e3cd200" Title="GetInstance Method " Url="html/Overload_SimpleInjector_Container_GetInstance.htm">
           <HelpTOCNode Title="GetInstance(TService) Method " Url="html/M_SimpleInjector_Container_GetInstance__1.htm" />
           <HelpTOCNode Title="GetInstance Method (Type)" Url="html/M_SimpleInjector_Container_GetInstance.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4b468ff3-8f27-4007-87fe-5226088ad0df" Title="GetRegistration Method " Url="html/Overload_SimpleInjector_Container_GetRegistration.htm">
+        <HelpTOCNode Id="40c5d787-64e9-49db-9972-2d285ce2c544" Title="GetRegistration Method " Url="html/Overload_SimpleInjector_Container_GetRegistration.htm">
           <HelpTOCNode Title="GetRegistration Method (Type)" Url="html/M_SimpleInjector_Container_GetRegistration.htm" />
           <HelpTOCNode Title="GetRegistration Method (Type, Boolean)" Url="html/M_SimpleInjector_Container_GetRegistration_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetRootRegistrations Method " Url="html/M_SimpleInjector_Container_GetRootRegistrations.htm" />
-        <HelpTOCNode Id="6d772288-f6bf-49bb-ba9f-37f04e5edd72" Title="GetTypesToRegister Method " Url="html/Overload_SimpleInjector_Container_GetTypesToRegister.htm">
+        <HelpTOCNode Id="d954939d-aa94-4bb4-8b27-294381612419" Title="GetTypesToRegister Method " Url="html/Overload_SimpleInjector_Container_GetTypesToRegister.htm">
           <HelpTOCNode Title="GetTypesToRegister(TService) Method (IEnumerable(Assembly))" Url="html/M_SimpleInjector_Container_GetTypesToRegister__1.htm" />
           <HelpTOCNode Title="GetTypesToRegister(TService) Method (Assembly[])" Url="html/M_SimpleInjector_Container_GetTypesToRegister__1_1.htm" />
           <HelpTOCNode Title="GetTypesToRegister Method (Type, IEnumerable(Assembly))" Url="html/M_SimpleInjector_Container_GetTypesToRegister.htm" />
           <HelpTOCNode Title="GetTypesToRegister Method (Type, Assembly[])" Url="html/M_SimpleInjector_Container_GetTypesToRegister_2.htm" />
           <HelpTOCNode Title="GetTypesToRegister Method (Type, IEnumerable(Assembly), TypesToRegisterOptions)" Url="html/M_SimpleInjector_Container_GetTypesToRegister_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b6af65a2-356d-40c0-b62d-47796d93016f" Title="Register Method " Url="html/Overload_SimpleInjector_Container_Register.htm">
+        <HelpTOCNode Id="b5a16796-b818-4394-b571-ef3633f48ed3" Title="Register Method " Url="html/Overload_SimpleInjector_Container_Register.htm">
           <HelpTOCNode Title="Register(TConcrete) Method " Url="html/M_SimpleInjector_Container_Register__1.htm" />
           <HelpTOCNode Title="Register(TService, TImplementation) Method " Url="html/M_SimpleInjector_Container_Register__2.htm" />
           <HelpTOCNode Title="Register(TService) Method (Func(TService))" Url="html/M_SimpleInjector_Container_Register__1_2.htm" />
@@ -69,7 +69,7 @@
           <HelpTOCNode Title="Register Method (Type, Assembly, Lifestyle)" Url="html/M_SimpleInjector_Container_Register_7.htm" />
           <HelpTOCNode Title="Register Method (Type, Type, Lifestyle)" Url="html/M_SimpleInjector_Container_Register_10.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5f35867c-bfb0-4fda-b1ad-44d92c7015b5" Title="RegisterCollection Method " Url="html/Overload_SimpleInjector_Container_RegisterCollection.htm">
+        <HelpTOCNode Id="10bc127d-2f78-4832-85d3-285c66071923" Title="RegisterCollection Method " Url="html/Overload_SimpleInjector_Container_RegisterCollection.htm">
           <HelpTOCNode Title="RegisterCollection(TService) Method (IEnumerable(Assembly))" Url="html/M_SimpleInjector_Container_RegisterCollection__1_1.htm" />
           <HelpTOCNode Title="RegisterCollection(TService) Method (IEnumerable(Type))" Url="html/M_SimpleInjector_Container_RegisterCollection__1_2.htm" />
           <HelpTOCNode Title="RegisterCollection(TService) Method (IEnumerable(TService))" Url="html/M_SimpleInjector_Container_RegisterCollection__1_3.htm" />
@@ -81,7 +81,7 @@
           <HelpTOCNode Title="RegisterCollection Method (Type, IEnumerable)" Url="html/M_SimpleInjector_Container_RegisterCollection_3.htm" />
           <HelpTOCNode Title="RegisterCollection Method (Type, Assembly[])" Url="html/M_SimpleInjector_Container_RegisterCollection_4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="42615024-844a-49cd-9ccf-0e888a6776f3" Title="RegisterConditional Method " Url="html/Overload_SimpleInjector_Container_RegisterConditional.htm">
+        <HelpTOCNode Id="f3c27214-9185-4836-9f17-4295325a1bec" Title="RegisterConditional Method " Url="html/Overload_SimpleInjector_Container_RegisterConditional.htm">
           <HelpTOCNode Title="RegisterConditional(TService, TImplementation) Method (Predicate(PredicateContext))" Url="html/M_SimpleInjector_Container_RegisterConditional__2_1.htm" />
           <HelpTOCNode Title="RegisterConditional(TService, TImplementation) Method (Lifestyle, Predicate(PredicateContext))" Url="html/M_SimpleInjector_Container_RegisterConditional__2.htm" />
           <HelpTOCNode Title="RegisterConditional(TService) Method (Registration, Predicate(PredicateContext))" Url="html/M_SimpleInjector_Container_RegisterConditional__1.htm" />
@@ -90,7 +90,7 @@
           <HelpTOCNode Title="RegisterConditional Method (Type, Func(TypeFactoryContext, Type), Lifestyle, Predicate(PredicateContext))" Url="html/M_SimpleInjector_Container_RegisterConditional_1.htm" />
           <HelpTOCNode Title="RegisterConditional Method (Type, Type, Lifestyle, Predicate(PredicateContext))" Url="html/M_SimpleInjector_Container_RegisterConditional_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cbb58b7f-2c46-4f0d-bea5-8cbddf5c0756" Title="RegisterDecorator Method " Url="html/Overload_SimpleInjector_Container_RegisterDecorator.htm">
+        <HelpTOCNode Id="e0bdba95-d08b-45a0-a80e-6ddf22575500" Title="RegisterDecorator Method " Url="html/Overload_SimpleInjector_Container_RegisterDecorator.htm">
           <HelpTOCNode Title="RegisterDecorator(TService, TDecorator) Method " Url="html/M_SimpleInjector_Container_RegisterDecorator__2.htm" />
           <HelpTOCNode Title="RegisterDecorator(TService, TDecorator) Method (Lifestyle)" Url="html/M_SimpleInjector_Container_RegisterDecorator__2_1.htm" />
           <HelpTOCNode Title="RegisterDecorator Method (Type, Type)" Url="html/M_SimpleInjector_Container_RegisterDecorator_1.htm" />
@@ -99,15 +99,15 @@
           <HelpTOCNode Title="RegisterDecorator Method (Type, Func(DecoratorPredicateContext, Type), Lifestyle, Predicate(DecoratorPredicateContext))" Url="html/M_SimpleInjector_Container_RegisterDecorator.htm" />
           <HelpTOCNode Title="RegisterDecorator Method (Type, Type, Lifestyle, Predicate(DecoratorPredicateContext))" Url="html/M_SimpleInjector_Container_RegisterDecorator_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cd1033b6-79c5-4c61-b123-0b8de009c79d" Title="RegisterInitializer Method " Url="html/Overload_SimpleInjector_Container_RegisterInitializer.htm">
+        <HelpTOCNode Id="7271bb78-a27b-4025-9f18-d91e84ac8a02" Title="RegisterInitializer Method " Url="html/Overload_SimpleInjector_Container_RegisterInitializer.htm">
           <HelpTOCNode Title="RegisterInitializer(TService) Method (Action(TService))" Url="html/M_SimpleInjector_Container_RegisterInitializer__1.htm" />
           <HelpTOCNode Title="RegisterInitializer Method (Action(InstanceInitializationData), Predicate(InitializerContext))" Url="html/M_SimpleInjector_Container_RegisterInitializer.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3cae7343-9461-43be-8259-eacf2ce6ffe2" Title="RegisterInstance Method " Url="html/Overload_SimpleInjector_Container_RegisterInstance.htm">
+        <HelpTOCNode Id="3fbe3330-b969-4547-9d7a-281c13289743" Title="RegisterInstance Method " Url="html/Overload_SimpleInjector_Container_RegisterInstance.htm">
           <HelpTOCNode Title="RegisterInstance(TService) Method (TService)" Url="html/M_SimpleInjector_Container_RegisterInstance__1.htm" />
           <HelpTOCNode Title="RegisterInstance Method (Type, Object)" Url="html/M_SimpleInjector_Container_RegisterInstance.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b532195b-6c8b-4eec-ad52-81142fd094a3" Title="RegisterSingleton Method " Url="html/Overload_SimpleInjector_Container_RegisterSingleton.htm">
+        <HelpTOCNode Id="0d4a1231-0ddb-4ce2-a084-4d1af4442b71" Title="RegisterSingleton Method " Url="html/Overload_SimpleInjector_Container_RegisterSingleton.htm">
           <HelpTOCNode Title="RegisterSingleton(TConcrete) Method " Url="html/M_SimpleInjector_Container_RegisterSingleton__1.htm" />
           <HelpTOCNode Title="RegisterSingleton(TService, TImplementation) Method " Url="html/M_SimpleInjector_Container_RegisterSingleton__2.htm" />
           <HelpTOCNode Title="RegisterSingleton(TService) Method (Func(TService))" Url="html/M_SimpleInjector_Container_RegisterSingleton__1_1.htm" />
@@ -118,23 +118,23 @@
           <HelpTOCNode Title="RegisterSingleton Method (Type, Assembly[])" Url="html/M_SimpleInjector_Container_RegisterSingleton_3.htm" />
           <HelpTOCNode Title="RegisterSingleton Method (Type, Type)" Url="html/M_SimpleInjector_Container_RegisterSingleton_4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6feca47b-bbcc-4a82-ad30-f8a5565638ad" Title="Verify Method " Url="html/Overload_SimpleInjector_Container_Verify.htm">
+        <HelpTOCNode Id="23b4257d-df29-475d-b145-7470e8e8b73a" Title="Verify Method " Url="html/Overload_SimpleInjector_Container_Verify.htm">
           <HelpTOCNode Title="Verify Method " Url="html/M_SimpleInjector_Container_Verify.htm" />
           <HelpTOCNode Title="Verify Method (VerificationOption)" Url="html/M_SimpleInjector_Container_Verify_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e322f3ef-0f5c-43a4-a7bc-1a9bd2c75113" Title="Container Events" Url="html/Events_T_SimpleInjector_Container.htm">
+      <HelpTOCNode Id="57dcc4cb-4a3b-459e-adfa-eadb5b659eee" Title="Container Events" Url="html/Events_T_SimpleInjector_Container.htm">
         <HelpTOCNode Title="ExpressionBuilding Event" Url="html/E_SimpleInjector_Container_ExpressionBuilding.htm" />
         <HelpTOCNode Title="ExpressionBuilt Event" Url="html/E_SimpleInjector_Container_ExpressionBuilt.htm" />
         <HelpTOCNode Title="ResolveUnregisteredType Event" Url="html/E_SimpleInjector_Container_ResolveUnregisteredType.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e58c8a14-cfc0-4558-9f2d-1ff81f9eb940" Title="ContainerCollectionRegistrator Class" Url="html/T_SimpleInjector_ContainerCollectionRegistrator.htm">
-      <HelpTOCNode Id="afa582bd-c736-4caf-b016-518ef75c1239" Title="ContainerCollectionRegistrator Properties" Url="html/Properties_T_SimpleInjector_ContainerCollectionRegistrator.htm">
+    <HelpTOCNode Id="d453d942-a3c1-462a-8b5a-cae7c57350af" Title="ContainerCollectionRegistrator Class" Url="html/T_SimpleInjector_ContainerCollectionRegistrator.htm">
+      <HelpTOCNode Id="5fef30d5-6b1d-4157-b539-39ffcb681691" Title="ContainerCollectionRegistrator Properties" Url="html/Properties_T_SimpleInjector_ContainerCollectionRegistrator.htm">
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_ContainerCollectionRegistrator_Container.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d653f953-9041-428e-b648-9922c5c97b21" Title="ContainerCollectionRegistrator Methods" Url="html/Methods_T_SimpleInjector_ContainerCollectionRegistrator.htm">
-        <HelpTOCNode Id="121f604e-f22e-444c-bb7f-f3060d7ff989" Title="Append Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_Append.htm">
+      <HelpTOCNode Id="104e2237-6740-4983-bbdf-1fdc099cf200" Title="ContainerCollectionRegistrator Methods" Url="html/Methods_T_SimpleInjector_ContainerCollectionRegistrator.htm">
+        <HelpTOCNode Id="4c8ef6b9-d0b4-45ed-a19b-adcd81ceb363" Title="Append Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_Append.htm">
           <HelpTOCNode Title="Append(TService, TImplementation) Method " Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Append__2.htm" />
           <HelpTOCNode Title="Append(TService, TImplementation) Method (Lifestyle)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Append__2_1.htm" />
           <HelpTOCNode Title="Append(TService) Method (Func(TService), Lifestyle)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Append__1.htm" />
@@ -142,15 +142,15 @@
           <HelpTOCNode Title="Append Method (Type, Type)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Append_1.htm" />
           <HelpTOCNode Title="Append Method (Type, Type, Lifestyle)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Append_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8c93a166-5885-4dfd-990b-f571296fd8bc" Title="AppendInstance Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_AppendInstance.htm">
+        <HelpTOCNode Id="c16c61b9-35d5-4b8d-8fb6-80afeaed16ed" Title="AppendInstance Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_AppendInstance.htm">
           <HelpTOCNode Title="AppendInstance(TService) Method (TService)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_AppendInstance__1.htm" />
           <HelpTOCNode Title="AppendInstance Method (Type, Object)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_AppendInstance.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="41699476-9581-4186-b1bb-7ffb5217bd14" Title="AppendTo Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_AppendTo.htm">
+        <HelpTOCNode Id="099ae713-fbab-4002-806e-9a37cb617d13" Title="AppendTo Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_AppendTo.htm">
           <HelpTOCNode Title="AppendTo Method (Type, Registration)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_AppendTo.htm" />
           <HelpTOCNode Title="AppendTo Method (Type, Type)" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_AppendTo_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e83bc933-bdcb-443f-bcbc-51e0582c0eef" Title="Create Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_Create.htm">
+        <HelpTOCNode Id="8c1e022a-f12a-43ba-807d-0492d4c461f5" Title="Create Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_Create.htm">
           <HelpTOCNode Title="Create(TService) Method (IEnumerable(Assembly))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Create__1_2.htm" />
           <HelpTOCNode Title="Create(TService) Method (IEnumerable(Type))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Create__1_3.htm" />
           <HelpTOCNode Title="Create(TService) Method (Assembly[])" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Create__1_4.htm" />
@@ -158,7 +158,7 @@
           <HelpTOCNode Title="Create(TService) Method (Registration[])" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Create__1.htm" />
           <HelpTOCNode Title="Create(TService) Method (IEnumerable(Registration))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Create__1_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7266fd88-c37b-48f5-8fb2-7850694f880c" Title="CreateRegistration Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration.htm">
+        <HelpTOCNode Id="ee1f1ac1-2f0b-499b-8699-32593a7ff497" Title="CreateRegistration Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration.htm">
           <HelpTOCNode Title="CreateRegistration(TService) Method (IEnumerable(Assembly))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration__1_2.htm" />
           <HelpTOCNode Title="CreateRegistration(TService) Method (IEnumerable(Type))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration__1_3.htm" />
           <HelpTOCNode Title="CreateRegistration(TService) Method (Assembly[])" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration__1_4.htm" />
@@ -166,7 +166,7 @@
           <HelpTOCNode Title="CreateRegistration(TService) Method (Registration[])" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration__1.htm" />
           <HelpTOCNode Title="CreateRegistration(TService) Method (IEnumerable(Registration))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_CreateRegistration__1_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="09dcb5d5-2ed1-410d-a8e7-2fefa25ff858" Title="Register Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_Register.htm">
+        <HelpTOCNode Id="f2c68098-b0b4-499a-8ed7-ea9e2df1ec11" Title="Register Method " Url="html/Overload_SimpleInjector_ContainerCollectionRegistrator_Register.htm">
           <HelpTOCNode Title="Register(TService) Method (IEnumerable(Assembly))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Register__1_1.htm" />
           <HelpTOCNode Title="Register(TService) Method (IEnumerable(Type))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Register__1_3.htm" />
           <HelpTOCNode Title="Register(TService) Method (IEnumerable(TService))" Url="html/M_SimpleInjector_ContainerCollectionRegistrator_Register__1_5.htm" />
@@ -187,8 +187,8 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ContainerLockingEventArgs Class" Url="html/T_SimpleInjector_ContainerLockingEventArgs.htm" />
-    <HelpTOCNode Id="5e8ce5f5-edd2-4e34-8842-89d38e313fe2" Title="ContainerOptions Class" Url="html/T_SimpleInjector_ContainerOptions.htm">
-      <HelpTOCNode Id="e85a0d85-1660-4ad1-ae00-02cb20990797" Title="ContainerOptions Properties" Url="html/Properties_T_SimpleInjector_ContainerOptions.htm">
+    <HelpTOCNode Id="aa7c80a5-aa0d-43ca-9d4b-aff63006aa51" Title="ContainerOptions Class" Url="html/T_SimpleInjector_ContainerOptions.htm">
+      <HelpTOCNode Id="96d13699-3c7b-4097-b006-47285a0160b2" Title="ContainerOptions Properties" Url="html/Properties_T_SimpleInjector_ContainerOptions.htm">
         <HelpTOCNode Title="AllowOverridingRegistrations Property " Url="html/P_SimpleInjector_ContainerOptions_AllowOverridingRegistrations.htm" />
         <HelpTOCNode Title="ConstructorResolutionBehavior Property " Url="html/P_SimpleInjector_ContainerOptions_ConstructorResolutionBehavior.htm" />
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_ContainerOptions_Container.htm" />
@@ -205,16 +205,16 @@
         <HelpTOCNode Title="UseFullyQualifiedTypeNames Property " Url="html/P_SimpleInjector_ContainerOptions_UseFullyQualifiedTypeNames.htm" />
         <HelpTOCNode Title="UseLoosenedLifestyleMismatchBehavior Property " Url="html/P_SimpleInjector_ContainerOptions_UseLoosenedLifestyleMismatchBehavior.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="341fef65-f5aa-4319-9ac6-e8423427e61e" Title="ContainerOptions Methods" Url="html/Methods_T_SimpleInjector_ContainerOptions.htm">
+      <HelpTOCNode Id="e71f9fda-d7ce-4788-be20-c5ff04ef8eb6" Title="ContainerOptions Methods" Url="html/Methods_T_SimpleInjector_ContainerOptions.htm">
         <HelpTOCNode Title="RegisterResolveInterceptor Method " Url="html/M_SimpleInjector_ContainerOptions_RegisterResolveInterceptor.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SimpleInjector_ContainerOptions_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="97f6df01-ffe3-4a9e-b2b3-21826b419346" Title="ContainerOptions Events" Url="html/Events_T_SimpleInjector_ContainerOptions.htm">
+      <HelpTOCNode Id="d03c752e-ed9e-45ff-b278-3b0199b088e7" Title="ContainerOptions Events" Url="html/Events_T_SimpleInjector_ContainerOptions.htm">
         <HelpTOCNode Title="ContainerLocking Event" Url="html/E_SimpleInjector_ContainerOptions_ContainerLocking.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c89da325-1616-4963-826a-783c0e01f5ce" Title="ContainerScope Class" Url="html/T_SimpleInjector_ContainerScope.htm">
-      <HelpTOCNode Id="02ebba87-e313-4be5-9cd5-7ee514882155" Title="ContainerScope Methods" Url="html/Methods_T_SimpleInjector_ContainerScope.htm">
+    <HelpTOCNode Id="12b2773c-a5e1-460a-833e-b992f4bae794" Title="ContainerScope Class" Url="html/T_SimpleInjector_ContainerScope.htm">
+      <HelpTOCNode Id="d8960735-67fd-49f2-af4d-00fe1a183029" Title="ContainerScope Methods" Url="html/Methods_T_SimpleInjector_ContainerScope.htm">
         <HelpTOCNode Title="GetDisposables Method " Url="html/M_SimpleInjector_ContainerScope_GetDisposables.htm" />
         <HelpTOCNode Title="GetItem Method " Url="html/M_SimpleInjector_ContainerScope_GetItem.htm" />
         <HelpTOCNode Title="GetOrSetItem(T) Method " Url="html/M_SimpleInjector_ContainerScope_GetOrSetItem__1.htm" />
@@ -224,8 +224,8 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="CreateLifestyleApplier Delegate" Url="html/T_SimpleInjector_CreateLifestyleApplier.htm" />
-    <HelpTOCNode Id="cb79382c-281b-4285-8714-80e2ee18aec7" Title="DecoratorContext Class" Url="html/T_SimpleInjector_DecoratorContext.htm">
-      <HelpTOCNode Id="83607996-ff10-4596-84ab-1165bd158e60" Title="DecoratorContext Properties" Url="html/Properties_T_SimpleInjector_DecoratorContext.htm">
+    <HelpTOCNode Id="fd808aa2-62c2-4109-bad6-b287249ff2a2" Title="DecoratorContext Class" Url="html/T_SimpleInjector_DecoratorContext.htm">
+      <HelpTOCNode Id="51badf95-82b9-4cb2-8fc8-aa42fd72c0d9" Title="DecoratorContext Properties" Url="html/Properties_T_SimpleInjector_DecoratorContext.htm">
         <HelpTOCNode Title="AppliedDecorators Property " Url="html/P_SimpleInjector_DecoratorContext_AppliedDecorators.htm" />
         <HelpTOCNode Title="Expression Property " Url="html/P_SimpleInjector_DecoratorContext_Expression.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_DecoratorContext_ImplementationType.htm" />
@@ -233,8 +233,8 @@
       </HelpTOCNode>
       <HelpTOCNode Title="DecoratorContext Methods" Url="html/Methods_T_SimpleInjector_DecoratorContext.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c2233335-64df-4227-ae5e-fa0c3f274de0" Title="DecoratorPredicateContext Class" Url="html/T_SimpleInjector_DecoratorPredicateContext.htm">
-      <HelpTOCNode Id="ddb5f699-8fda-41fb-9b53-5e063b627c09" Title="DecoratorPredicateContext Properties" Url="html/Properties_T_SimpleInjector_DecoratorPredicateContext.htm">
+    <HelpTOCNode Id="93ee8e94-2587-4a83-b2c5-7204452217bc" Title="DecoratorPredicateContext Class" Url="html/T_SimpleInjector_DecoratorPredicateContext.htm">
+      <HelpTOCNode Id="67afb947-d3fc-4c09-b710-bbb6174919ea" Title="DecoratorPredicateContext Properties" Url="html/Properties_T_SimpleInjector_DecoratorPredicateContext.htm">
         <HelpTOCNode Title="AppliedDecorators Property " Url="html/P_SimpleInjector_DecoratorPredicateContext_AppliedDecorators.htm" />
         <HelpTOCNode Title="Expression Property " Url="html/P_SimpleInjector_DecoratorPredicateContext_Expression.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_DecoratorPredicateContext_ImplementationType.htm" />
@@ -242,20 +242,20 @@
       </HelpTOCNode>
       <HelpTOCNode Title="DecoratorPredicateContext Methods" Url="html/Methods_T_SimpleInjector_DecoratorPredicateContext.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2432d53b-f6f3-450f-a0e4-0139975412b6" Title="DiagnosticVerificationException Class" Url="html/T_SimpleInjector_DiagnosticVerificationException.htm">
-      <HelpTOCNode Id="e74bc1bf-a958-4477-80b8-f9c57717a8f8" Title="DiagnosticVerificationException Constructor " Url="html/Overload_SimpleInjector_DiagnosticVerificationException__ctor.htm">
+    <HelpTOCNode Id="2464425c-83e8-41d6-9704-66cb85eb403d" Title="DiagnosticVerificationException Class" Url="html/T_SimpleInjector_DiagnosticVerificationException.htm">
+      <HelpTOCNode Id="1a2f8455-7c95-4fe0-8a8f-93f815038748" Title="DiagnosticVerificationException Constructor " Url="html/Overload_SimpleInjector_DiagnosticVerificationException__ctor.htm">
         <HelpTOCNode Title="DiagnosticVerificationException Constructor " Url="html/M_SimpleInjector_DiagnosticVerificationException__ctor.htm" />
         <HelpTOCNode Title="DiagnosticVerificationException Constructor (String)" Url="html/M_SimpleInjector_DiagnosticVerificationException__ctor_3.htm" />
         <HelpTOCNode Title="DiagnosticVerificationException Constructor (IList(DiagnosticResult))" Url="html/M_SimpleInjector_DiagnosticVerificationException__ctor_1.htm" />
         <HelpTOCNode Title="DiagnosticVerificationException Constructor (SerializationInfo, StreamingContext)" Url="html/M_SimpleInjector_DiagnosticVerificationException__ctor_2.htm" />
         <HelpTOCNode Title="DiagnosticVerificationException Constructor (String, Exception)" Url="html/M_SimpleInjector_DiagnosticVerificationException__ctor_4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1f841782-227f-4404-b788-158c7e30a9c9" Title="DiagnosticVerificationException Properties" Url="html/Properties_T_SimpleInjector_DiagnosticVerificationException.htm">
+      <HelpTOCNode Id="2308dd75-ecc3-418a-af2f-3bef8009be1e" Title="DiagnosticVerificationException Properties" Url="html/Properties_T_SimpleInjector_DiagnosticVerificationException.htm">
         <HelpTOCNode Title="Errors Property " Url="html/P_SimpleInjector_DiagnosticVerificationException_Errors.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0740801e-2fd6-485f-9a28-d4ac050e15a8" Title="ExpressionBuildingEventArgs Class" Url="html/T_SimpleInjector_ExpressionBuildingEventArgs.htm">
-      <HelpTOCNode Id="b42fac0e-7705-43ad-a59a-6b130c23dfce" Title="ExpressionBuildingEventArgs Properties" Url="html/Properties_T_SimpleInjector_ExpressionBuildingEventArgs.htm">
+    <HelpTOCNode Id="6d01c392-9743-4406-b158-ac79c050e946" Title="ExpressionBuildingEventArgs Class" Url="html/T_SimpleInjector_ExpressionBuildingEventArgs.htm">
+      <HelpTOCNode Id="79246308-d81d-4761-b2a9-164077698625" Title="ExpressionBuildingEventArgs Properties" Url="html/Properties_T_SimpleInjector_ExpressionBuildingEventArgs.htm">
         <HelpTOCNode Title="Expression Property " Url="html/P_SimpleInjector_ExpressionBuildingEventArgs_Expression.htm" />
         <HelpTOCNode Title="KnownImplementationType Property " Url="html/P_SimpleInjector_ExpressionBuildingEventArgs_KnownImplementationType.htm" />
         <HelpTOCNode Title="KnownRelationships Property " Url="html/P_SimpleInjector_ExpressionBuildingEventArgs_KnownRelationships.htm" />
@@ -263,27 +263,27 @@
         <HelpTOCNode Title="RegisteredServiceType Property " Url="html/P_SimpleInjector_ExpressionBuildingEventArgs_RegisteredServiceType.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4e4bbe17-36f0-459c-a924-510da4541b7a" Title="ExpressionBuiltEventArgs Class" Url="html/T_SimpleInjector_ExpressionBuiltEventArgs.htm">
+    <HelpTOCNode Id="cad49153-c1e8-4ecf-a919-cc6d666a4879" Title="ExpressionBuiltEventArgs Class" Url="html/T_SimpleInjector_ExpressionBuiltEventArgs.htm">
       <HelpTOCNode Title="ExpressionBuiltEventArgs Constructor " Url="html/M_SimpleInjector_ExpressionBuiltEventArgs__ctor.htm" />
-      <HelpTOCNode Id="e68c7b29-6f3f-40a9-89cd-457c2bf77bac" Title="ExpressionBuiltEventArgs Properties" Url="html/Properties_T_SimpleInjector_ExpressionBuiltEventArgs.htm">
+      <HelpTOCNode Id="7f191dbb-db07-4016-b06a-b93f7664a189" Title="ExpressionBuiltEventArgs Properties" Url="html/Properties_T_SimpleInjector_ExpressionBuiltEventArgs.htm">
         <HelpTOCNode Title="Expression Property " Url="html/P_SimpleInjector_ExpressionBuiltEventArgs_Expression.htm" />
         <HelpTOCNode Title="KnownRelationships Property " Url="html/P_SimpleInjector_ExpressionBuiltEventArgs_KnownRelationships.htm" />
         <HelpTOCNode Title="Lifestyle Property " Url="html/P_SimpleInjector_ExpressionBuiltEventArgs_Lifestyle.htm" />
         <HelpTOCNode Title="RegisteredServiceType Property " Url="html/P_SimpleInjector_ExpressionBuiltEventArgs_RegisteredServiceType.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="45044da6-8e4a-434d-a93c-cf3078ec4384" Title="InjectionConsumerInfo Class" Url="html/T_SimpleInjector_InjectionConsumerInfo.htm">
-      <HelpTOCNode Id="6ba50423-666e-460a-b687-ecb1e06ae30b" Title="InjectionConsumerInfo Constructor " Url="html/Overload_SimpleInjector_InjectionConsumerInfo__ctor.htm">
+    <HelpTOCNode Id="30854c55-b0b4-4148-8559-e3ab5fd27acc" Title="InjectionConsumerInfo Class" Url="html/T_SimpleInjector_InjectionConsumerInfo.htm">
+      <HelpTOCNode Id="ad4477bb-47a2-4dcd-8829-055c278dce81" Title="InjectionConsumerInfo Constructor " Url="html/Overload_SimpleInjector_InjectionConsumerInfo__ctor.htm">
         <HelpTOCNode Title="InjectionConsumerInfo Constructor (ParameterInfo)" Url="html/M_SimpleInjector_InjectionConsumerInfo__ctor.htm" />
         <HelpTOCNode Title="InjectionConsumerInfo Constructor (Type, PropertyInfo)" Url="html/M_SimpleInjector_InjectionConsumerInfo__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4027e5a0-85cc-4f59-b729-9013276134ee" Title="InjectionConsumerInfo Properties" Url="html/Properties_T_SimpleInjector_InjectionConsumerInfo.htm">
+      <HelpTOCNode Id="73095a40-d9f0-4222-89fc-e97b39786ba2" Title="InjectionConsumerInfo Properties" Url="html/Properties_T_SimpleInjector_InjectionConsumerInfo.htm">
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_InjectionConsumerInfo_ImplementationType.htm" />
         <HelpTOCNode Title="ServiceType Property " Url="html/P_SimpleInjector_InjectionConsumerInfo_ServiceType.htm" />
         <HelpTOCNode Title="Target Property " Url="html/P_SimpleInjector_InjectionConsumerInfo_Target.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="37d41846-c0b4-4ee3-81de-ac35ca8a7376" Title="InjectionConsumerInfo Methods" Url="html/Methods_T_SimpleInjector_InjectionConsumerInfo.htm">
-        <HelpTOCNode Id="10ff6a45-0d7a-4528-82c0-7c8d04702e86" Title="Equals Method " Url="html/Overload_SimpleInjector_InjectionConsumerInfo_Equals.htm">
+      <HelpTOCNode Id="5e66f984-555b-44e0-9c67-18bb70192495" Title="InjectionConsumerInfo Methods" Url="html/Methods_T_SimpleInjector_InjectionConsumerInfo.htm">
+        <HelpTOCNode Id="02db626e-6f2f-410f-94f2-3e48dc72c097" Title="Equals Method " Url="html/Overload_SimpleInjector_InjectionConsumerInfo_Equals.htm">
           <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SimpleInjector_InjectionConsumerInfo_Equals_1.htm" />
           <HelpTOCNode Title="Equals Method (InjectionConsumerInfo)" Url="html/M_SimpleInjector_InjectionConsumerInfo_Equals.htm" />
         </HelpTOCNode>
@@ -291,26 +291,26 @@
         <HelpTOCNode Title="ToString Method " Url="html/M_SimpleInjector_InjectionConsumerInfo_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="570a2f0a-8c26-40d5-bf81-d48e181ebb23" Title="InjectionTargetInfo Class" Url="html/T_SimpleInjector_InjectionTargetInfo.htm">
-      <HelpTOCNode Id="8ba1daff-71c6-4312-9930-e989d69ba6f2" Title="InjectionTargetInfo Properties" Url="html/Properties_T_SimpleInjector_InjectionTargetInfo.htm">
+    <HelpTOCNode Id="e60fc902-2265-4067-92d1-74574e6ae161" Title="InjectionTargetInfo Class" Url="html/T_SimpleInjector_InjectionTargetInfo.htm">
+      <HelpTOCNode Id="48b171be-f556-426d-9bfd-b4c9ade770bc" Title="InjectionTargetInfo Properties" Url="html/Properties_T_SimpleInjector_InjectionTargetInfo.htm">
         <HelpTOCNode Title="Member Property " Url="html/P_SimpleInjector_InjectionTargetInfo_Member.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_SimpleInjector_InjectionTargetInfo_Name.htm" />
         <HelpTOCNode Title="Parameter Property " Url="html/P_SimpleInjector_InjectionTargetInfo_Parameter.htm" />
         <HelpTOCNode Title="Property Property " Url="html/P_SimpleInjector_InjectionTargetInfo_Property.htm" />
         <HelpTOCNode Title="TargetType Property " Url="html/P_SimpleInjector_InjectionTargetInfo_TargetType.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8050cf1d-6991-43d1-8b9d-e90bb305963e" Title="InjectionTargetInfo Methods" Url="html/Methods_T_SimpleInjector_InjectionTargetInfo.htm">
-        <HelpTOCNode Id="c0423bd8-d217-4cd7-a036-f9604951aaf2" Title="Equals Method " Url="html/Overload_SimpleInjector_InjectionTargetInfo_Equals.htm">
+      <HelpTOCNode Id="2f44fd0b-dd30-4107-b93d-2a1ddb02d33a" Title="InjectionTargetInfo Methods" Url="html/Methods_T_SimpleInjector_InjectionTargetInfo.htm">
+        <HelpTOCNode Id="5500d2c1-fa14-49a2-a06e-2f8e4603e9f0" Title="Equals Method " Url="html/Overload_SimpleInjector_InjectionTargetInfo_Equals.htm">
           <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SimpleInjector_InjectionTargetInfo_Equals_1.htm" />
           <HelpTOCNode Title="Equals Method (InjectionTargetInfo)" Url="html/M_SimpleInjector_InjectionTargetInfo_Equals.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f74e3c45-550c-40d2-a5a6-966fdd75a0ae" Title="GetCustomAttribute Method " Url="html/Overload_SimpleInjector_InjectionTargetInfo_GetCustomAttribute.htm">
+        <HelpTOCNode Id="4b991a9d-61c1-4b5d-8328-86edccf9ac42" Title="GetCustomAttribute Method " Url="html/Overload_SimpleInjector_InjectionTargetInfo_GetCustomAttribute.htm">
           <HelpTOCNode Title="GetCustomAttribute(T) Method " Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttribute__1.htm" />
           <HelpTOCNode Title="GetCustomAttribute(T) Method (Boolean)" Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttribute__1_1.htm" />
           <HelpTOCNode Title="GetCustomAttribute Method (Type)" Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttribute.htm" />
           <HelpTOCNode Title="GetCustomAttribute Method (Type, Boolean)" Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttribute_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c0947183-10b6-4f5c-8dce-8e65dcd23921" Title="GetCustomAttributes Method " Url="html/Overload_SimpleInjector_InjectionTargetInfo_GetCustomAttributes.htm">
+        <HelpTOCNode Id="4cf99166-33ed-4830-94d0-90ba841c268a" Title="GetCustomAttributes Method " Url="html/Overload_SimpleInjector_InjectionTargetInfo_GetCustomAttributes.htm">
           <HelpTOCNode Title="GetCustomAttributes(T) Method " Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttributes__1.htm" />
           <HelpTOCNode Title="GetCustomAttributes Method (Boolean)" Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttributes.htm" />
           <HelpTOCNode Title="GetCustomAttributes(T) Method (Boolean)" Url="html/M_SimpleInjector_InjectionTargetInfo_GetCustomAttributes__1_1.htm" />
@@ -320,52 +320,52 @@
         <HelpTOCNode Title="IsDefined Method " Url="html/M_SimpleInjector_InjectionTargetInfo_IsDefined.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2c0ed0d5-07c9-43ef-87c2-856faaaa2c10" Title="InstanceProducer Class" Url="html/T_SimpleInjector_InstanceProducer.htm">
+    <HelpTOCNode Id="ad2049c2-0755-4f98-914d-e9a1f4551bb2" Title="InstanceProducer Class" Url="html/T_SimpleInjector_InstanceProducer.htm">
       <HelpTOCNode Title="InstanceProducer Constructor " Url="html/M_SimpleInjector_InstanceProducer__ctor.htm" />
-      <HelpTOCNode Id="3ca2565d-93aa-4a96-a1da-db1d79286fcc" Title="InstanceProducer Properties" Url="html/Properties_T_SimpleInjector_InstanceProducer.htm">
+      <HelpTOCNode Id="63d0f65e-ae4e-426e-b3b0-df545dbd4112" Title="InstanceProducer Properties" Url="html/Properties_T_SimpleInjector_InstanceProducer.htm">
         <HelpTOCNode Title="Lifestyle Property " Url="html/P_SimpleInjector_InstanceProducer_Lifestyle.htm" />
         <HelpTOCNode Title="Registration Property " Url="html/P_SimpleInjector_InstanceProducer_Registration.htm" />
         <HelpTOCNode Title="ServiceType Property " Url="html/P_SimpleInjector_InstanceProducer_ServiceType.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="342d663b-6a77-499a-a5af-30dc3d4b3b92" Title="InstanceProducer Methods" Url="html/Methods_T_SimpleInjector_InstanceProducer.htm">
+      <HelpTOCNode Id="0c3d31a0-fb80-4ba1-8f09-94dfe23f362b" Title="InstanceProducer Methods" Url="html/Methods_T_SimpleInjector_InstanceProducer.htm">
         <HelpTOCNode Title="BuildExpression Method " Url="html/M_SimpleInjector_InstanceProducer_BuildExpression.htm" />
         <HelpTOCNode Title="FromExpression Method " Url="html/M_SimpleInjector_InstanceProducer_FromExpression.htm" />
         <HelpTOCNode Title="GetInstance Method " Url="html/M_SimpleInjector_InstanceProducer_GetInstance.htm" />
         <HelpTOCNode Title="GetRelationships Method " Url="html/M_SimpleInjector_InstanceProducer_GetRelationships.htm" />
-        <HelpTOCNode Id="93c4aa12-f694-4a04-8a43-e3aeb5db2f16" Title="VisualizeObjectGraph Method " Url="html/Overload_SimpleInjector_InstanceProducer_VisualizeObjectGraph.htm">
+        <HelpTOCNode Id="6fc2b5c2-1f51-4cff-8f16-bcc67f8f041e" Title="VisualizeObjectGraph Method " Url="html/Overload_SimpleInjector_InstanceProducer_VisualizeObjectGraph.htm">
           <HelpTOCNode Title="VisualizeObjectGraph Method " Url="html/M_SimpleInjector_InstanceProducer_VisualizeObjectGraph.htm" />
           <HelpTOCNode Title="VisualizeObjectGraph Method (VisualizationOptions)" Url="html/M_SimpleInjector_InstanceProducer_VisualizeObjectGraph_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ea5186bf-79a2-4ae5-b858-e538915c3951" Title="InstanceProducer(TService) Class" Url="html/T_SimpleInjector_InstanceProducer_1.htm">
+    <HelpTOCNode Id="264a7481-4b37-4d2b-a508-affd810b300b" Title="InstanceProducer(TService) Class" Url="html/T_SimpleInjector_InstanceProducer_1.htm">
       <HelpTOCNode Title="InstanceProducer(TService) Constructor " Url="html/M_SimpleInjector_InstanceProducer_1__ctor.htm" />
       <HelpTOCNode Title="InstanceProducer(TService) Properties" Url="html/Properties_T_SimpleInjector_InstanceProducer_1.htm" />
-      <HelpTOCNode Id="c02e2ae8-e555-4ce8-9adb-0c23ffd06dfe" Title="InstanceProducer(TService) Methods" Url="html/Methods_T_SimpleInjector_InstanceProducer_1.htm">
+      <HelpTOCNode Id="582714c5-b3e4-4a1a-8add-30fee4221fd6" Title="InstanceProducer(TService) Methods" Url="html/Methods_T_SimpleInjector_InstanceProducer_1.htm">
         <HelpTOCNode Title="GetInstance Method " Url="html/M_SimpleInjector_InstanceProducer_1_GetInstance.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9c947758-8d79-4423-99d3-23c8b6579a91" Title="Lifestyle Class" Url="html/T_SimpleInjector_Lifestyle.htm">
+    <HelpTOCNode Id="9ca696da-06fe-4327-8806-3d8c3b6086b5" Title="Lifestyle Class" Url="html/T_SimpleInjector_Lifestyle.htm">
       <HelpTOCNode Title="Lifestyle Constructor " Url="html/M_SimpleInjector_Lifestyle__ctor.htm" />
-      <HelpTOCNode Id="278ccd3f-82ea-449e-9b0a-48a6eef5e88e" Title="Lifestyle Properties" Url="html/Properties_T_SimpleInjector_Lifestyle.htm">
+      <HelpTOCNode Id="6b81bb73-2888-4a78-a0a4-3ab7cd202049" Title="Lifestyle Properties" Url="html/Properties_T_SimpleInjector_Lifestyle.htm">
         <HelpTOCNode Title="Length Property " Url="html/P_SimpleInjector_Lifestyle_Length.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_SimpleInjector_Lifestyle_Name.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="db7d05d2-19ae-426d-96bb-25110f4e5ca3" Title="Lifestyle Methods" Url="html/Methods_T_SimpleInjector_Lifestyle.htm">
+      <HelpTOCNode Id="a933064c-2cee-49b7-a910-5ba4a29f0fa2" Title="Lifestyle Methods" Url="html/Methods_T_SimpleInjector_Lifestyle.htm">
         <HelpTOCNode Title="CreateCustom Method " Url="html/M_SimpleInjector_Lifestyle_CreateCustom.htm" />
-        <HelpTOCNode Id="f0a57946-8843-4726-acdf-288c0eeb020a" Title="CreateHybrid Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateHybrid.htm">
+        <HelpTOCNode Id="cc2b3e22-929b-494d-b89d-e0f9f3544cd0" Title="CreateHybrid Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateHybrid.htm">
           <HelpTOCNode Title="CreateHybrid Method (ScopedLifestyle, Lifestyle)" Url="html/M_SimpleInjector_Lifestyle_CreateHybrid.htm" />
           <HelpTOCNode Title="CreateHybrid Method (ScopedLifestyle, ScopedLifestyle)" Url="html/M_SimpleInjector_Lifestyle_CreateHybrid_1.htm" />
           <HelpTOCNode Title="CreateHybrid Method (Func(Boolean), Lifestyle, Lifestyle)" Url="html/M_SimpleInjector_Lifestyle_CreateHybrid_2.htm" />
           <HelpTOCNode Title="CreateHybrid Method (Func(Boolean), ScopedLifestyle, ScopedLifestyle)" Url="html/M_SimpleInjector_Lifestyle_CreateHybrid_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="eedc29ee-0fc3-4466-8b70-2c27cc673f89" Title="CreateProducer Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateProducer.htm">
+        <HelpTOCNode Id="79a9f531-c30e-4695-9d24-2d66707a5bc3" Title="CreateProducer Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateProducer.htm">
           <HelpTOCNode Title="CreateProducer(TService, TImplementation) Method (Container)" Url="html/M_SimpleInjector_Lifestyle_CreateProducer__2.htm" />
           <HelpTOCNode Title="CreateProducer(TService) Method (Func(TService), Container)" Url="html/M_SimpleInjector_Lifestyle_CreateProducer__1.htm" />
           <HelpTOCNode Title="CreateProducer(TService) Method (Type, Container)" Url="html/M_SimpleInjector_Lifestyle_CreateProducer__1_1.htm" />
           <HelpTOCNode Title="CreateProducer Method (Type, Type, Container)" Url="html/M_SimpleInjector_Lifestyle_CreateProducer.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="51197653-caf5-498f-a9ee-75bb403bdab7" Title="CreateRegistration Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateRegistration.htm">
+        <HelpTOCNode Id="8538c69b-3a6c-4014-b067-a94412fb2ce5" Title="CreateRegistration Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateRegistration.htm">
           <HelpTOCNode Title="CreateRegistration(TConcrete) Method (Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistration__1.htm" />
           <HelpTOCNode Title="CreateRegistration(TService, TImplementation) Method (Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistration__2.htm" />
           <HelpTOCNode Title="CreateRegistration(TService) Method (Func(TService), Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistration__1_1.htm" />
@@ -373,28 +373,28 @@
           <HelpTOCNode Title="CreateRegistration Method (Type, Func(Object), Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistration_1.htm" />
           <HelpTOCNode Title="CreateRegistration Method (Type, Type, Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistration_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7e35e386-cf42-402c-b023-7722d5f07e75" Title="CreateRegistrationCore Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateRegistrationCore.htm">
+        <HelpTOCNode Id="45dc4adf-2b75-480c-a57a-7fe0771f82e8" Title="CreateRegistrationCore Method " Url="html/Overload_SimpleInjector_Lifestyle_CreateRegistrationCore.htm">
           <HelpTOCNode Title="CreateRegistrationCore(TConcrete) Method (Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistrationCore__1.htm" />
           <HelpTOCNode Title="CreateRegistrationCore(TService) Method (Func(TService), Container)" Url="html/M_SimpleInjector_Lifestyle_CreateRegistrationCore__1_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5bd181f6-0e72-46dd-ae28-8be9d523f0e2" Title="Lifestyle Fields" Url="html/Fields_T_SimpleInjector_Lifestyle.htm">
+      <HelpTOCNode Id="206e44c2-f875-4a69-9f5f-87cfadb05af4" Title="Lifestyle Fields" Url="html/Fields_T_SimpleInjector_Lifestyle.htm">
         <HelpTOCNode Title="Scoped Field" Url="html/F_SimpleInjector_Lifestyle_Scoped.htm" />
         <HelpTOCNode Title="Singleton Field" Url="html/F_SimpleInjector_Lifestyle_Singleton.htm" />
         <HelpTOCNode Title="Transient Field" Url="html/F_SimpleInjector_Lifestyle_Transient.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2b0f2e35-fa0e-46e9-8fb5-b92ac938f225" Title="PackageExtensions Class" Url="html/T_SimpleInjector_PackageExtensions.htm">
-      <HelpTOCNode Id="becabda3-012a-47ec-ad78-f6f67f954f05" Title="PackageExtensions Methods" Url="html/Methods_T_SimpleInjector_PackageExtensions.htm">
+    <HelpTOCNode Id="76efd01e-365f-4b41-bb15-be68936297bf" Title="PackageExtensions Class" Url="html/T_SimpleInjector_PackageExtensions.htm">
+      <HelpTOCNode Id="59ff0bf7-2d92-4e30-a2f8-ba38f86d79c3" Title="PackageExtensions Methods" Url="html/Methods_T_SimpleInjector_PackageExtensions.htm">
         <HelpTOCNode Title="GetPackagesToRegister Method " Url="html/M_SimpleInjector_PackageExtensions_GetPackagesToRegister.htm" />
-        <HelpTOCNode Id="930ff693-6e54-40b1-af25-d4b5a7a1ef3f" Title="RegisterPackages Method " Url="html/Overload_SimpleInjector_PackageExtensions_RegisterPackages.htm">
+        <HelpTOCNode Id="e9b76f76-4a61-483c-8dc2-be4cb063910c" Title="RegisterPackages Method " Url="html/Overload_SimpleInjector_PackageExtensions_RegisterPackages.htm">
           <HelpTOCNode Title="RegisterPackages Method (Container)" Url="html/M_SimpleInjector_PackageExtensions_RegisterPackages.htm" />
           <HelpTOCNode Title="RegisterPackages Method (Container, IEnumerable(Assembly))" Url="html/M_SimpleInjector_PackageExtensions_RegisterPackages_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="717630e8-47ec-4095-8481-e3d48bee1d03" Title="PredicateContext Class" Url="html/T_SimpleInjector_PredicateContext.htm">
-      <HelpTOCNode Id="52c0b8b9-aa2b-4311-a2ee-c0c2f5e646bb" Title="PredicateContext Properties" Url="html/Properties_T_SimpleInjector_PredicateContext.htm">
+    <HelpTOCNode Id="60164cfc-5a5c-4604-a746-8eb0b8154e5e" Title="PredicateContext Class" Url="html/T_SimpleInjector_PredicateContext.htm">
+      <HelpTOCNode Id="8675f42d-3048-4a4a-aa37-9f215974f879" Title="PredicateContext Properties" Url="html/Properties_T_SimpleInjector_PredicateContext.htm">
         <HelpTOCNode Title="Consumer Property " Url="html/P_SimpleInjector_PredicateContext_Consumer.htm" />
         <HelpTOCNode Title="Handled Property " Url="html/P_SimpleInjector_PredicateContext_Handled.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_PredicateContext_ImplementationType.htm" />
@@ -402,21 +402,21 @@
       </HelpTOCNode>
       <HelpTOCNode Title="PredicateContext Methods" Url="html/Methods_T_SimpleInjector_PredicateContext.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="58dacc8e-5060-4c6b-b488-c3fbc6c0c9f7" Title="Registration Class" Url="html/T_SimpleInjector_Registration.htm">
+    <HelpTOCNode Id="cbfbb685-9fd1-499c-8e9f-38b125d8bce7" Title="Registration Class" Url="html/T_SimpleInjector_Registration.htm">
       <HelpTOCNode Title="Registration Constructor " Url="html/M_SimpleInjector_Registration__ctor.htm" />
-      <HelpTOCNode Id="1862c513-90dc-426f-9bb3-48f3310c0f0f" Title="Registration Properties" Url="html/Properties_T_SimpleInjector_Registration.htm">
+      <HelpTOCNode Id="fe0243c8-4058-471b-a1b5-4ba7524e8b53" Title="Registration Properties" Url="html/Properties_T_SimpleInjector_Registration.htm">
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_Registration_Container.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_Registration_ImplementationType.htm" />
         <HelpTOCNode Title="Lifestyle Property " Url="html/P_SimpleInjector_Registration_Lifestyle.htm" />
         <HelpTOCNode Title="SuppressDisposal Property " Url="html/P_SimpleInjector_Registration_SuppressDisposal.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3ade0534-56b5-4b1b-8c44-754428a8acb8" Title="Registration Methods" Url="html/Methods_T_SimpleInjector_Registration.htm">
+      <HelpTOCNode Id="86acb362-dac8-4e69-8104-828d0f3cdd5e" Title="Registration Methods" Url="html/Methods_T_SimpleInjector_Registration.htm">
         <HelpTOCNode Title="BuildExpression Method " Url="html/M_SimpleInjector_Registration_BuildExpression.htm" />
-        <HelpTOCNode Id="bf3c6574-1415-4015-8443-4917ee7e4ebe" Title="BuildTransientDelegate Method " Url="html/Overload_SimpleInjector_Registration_BuildTransientDelegate.htm">
+        <HelpTOCNode Id="2c0ac1ab-30f3-4da9-ad31-2cc3fd4edf0d" Title="BuildTransientDelegate Method " Url="html/Overload_SimpleInjector_Registration_BuildTransientDelegate.htm">
           <HelpTOCNode Title="BuildTransientDelegate Method " Url="html/M_SimpleInjector_Registration_BuildTransientDelegate.htm" />
           <HelpTOCNode Title="BuildTransientDelegate(TService) Method (Func(TService))" Url="html/M_SimpleInjector_Registration_BuildTransientDelegate__1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="11ddb430-7e83-4c68-8c11-204a844a525e" Title="BuildTransientExpression Method " Url="html/Overload_SimpleInjector_Registration_BuildTransientExpression.htm">
+        <HelpTOCNode Id="76445148-8c0d-40c3-af3e-9f044127d74a" Title="BuildTransientExpression Method " Url="html/Overload_SimpleInjector_Registration_BuildTransientExpression.htm">
           <HelpTOCNode Title="BuildTransientExpression Method " Url="html/M_SimpleInjector_Registration_BuildTransientExpression.htm" />
           <HelpTOCNode Title="BuildTransientExpression(TService) Method (Func(TService))" Url="html/M_SimpleInjector_Registration_BuildTransientExpression__1.htm" />
         </HelpTOCNode>
@@ -426,22 +426,22 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ResolveInterceptor Delegate" Url="html/T_SimpleInjector_ResolveInterceptor.htm" />
-    <HelpTOCNode Id="22af54c6-2212-484a-a252-0c92c8c9f22a" Title="Scope Class" Url="html/T_SimpleInjector_Scope.htm">
-      <HelpTOCNode Id="74c5246e-499b-4413-b034-a0834ff718e3" Title="Scope Constructor " Url="html/Overload_SimpleInjector_Scope__ctor.htm">
+    <HelpTOCNode Id="cc0874e2-2862-475b-99fd-be9ff0612bb4" Title="Scope Class" Url="html/T_SimpleInjector_Scope.htm">
+      <HelpTOCNode Id="7c1b4e5c-3f88-4ced-adc9-d555635dd24f" Title="Scope Constructor " Url="html/Overload_SimpleInjector_Scope__ctor.htm">
         <HelpTOCNode Title="Scope Constructor " Url="html/M_SimpleInjector_Scope__ctor.htm" />
         <HelpTOCNode Title="Scope Constructor (Container)" Url="html/M_SimpleInjector_Scope__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1d84ba69-d9e4-43de-9a06-9b7ff92d45fb" Title="Scope Properties" Url="html/Properties_T_SimpleInjector_Scope.htm">
+      <HelpTOCNode Id="f9dd4407-7489-4938-90ae-d52380a5e32a" Title="Scope Properties" Url="html/Properties_T_SimpleInjector_Scope.htm">
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_Scope_Container.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b9d6374f-a379-4494-873d-59702acaad22" Title="Scope Methods" Url="html/Methods_T_SimpleInjector_Scope.htm">
+      <HelpTOCNode Id="c5e5f178-c7cb-4998-941f-7661ef73a909" Title="Scope Methods" Url="html/Methods_T_SimpleInjector_Scope.htm">
         <HelpTOCNode Title="IServiceProvider.GetService Method " Url="html/M_SimpleInjector_Scope_System_IServiceProvider_GetService.htm" />
-        <HelpTOCNode Id="7688666f-4e5c-4d8d-b5cf-7be7e4e0edc0" Title="Dispose Method " Url="html/Overload_SimpleInjector_Scope_Dispose.htm">
+        <HelpTOCNode Id="382d866e-e648-4a37-aef7-ee822ff857f9" Title="Dispose Method " Url="html/Overload_SimpleInjector_Scope_Dispose.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SimpleInjector_Scope_Dispose.htm" />
           <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_SimpleInjector_Scope_Dispose_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetDisposables Method " Url="html/M_SimpleInjector_Scope_GetDisposables.htm" />
-        <HelpTOCNode Id="f219dfd3-fdcd-4dfd-aac2-f3a2670b954c" Title="GetInstance Method " Url="html/Overload_SimpleInjector_Scope_GetInstance.htm">
+        <HelpTOCNode Id="9ea37d78-c7f2-486d-85bf-8c880c85d83b" Title="GetInstance Method " Url="html/Overload_SimpleInjector_Scope_GetInstance.htm">
           <HelpTOCNode Title="GetInstance(TService) Method " Url="html/M_SimpleInjector_Scope_GetInstance__1.htm" />
           <HelpTOCNode Title="GetInstance Method (Type)" Url="html/M_SimpleInjector_Scope_GetInstance.htm" />
         </HelpTOCNode>
@@ -451,17 +451,17 @@
         <HelpTOCNode Title="WhenScopeEnds Method " Url="html/M_SimpleInjector_Scope_WhenScopeEnds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="96bdf39a-fc7c-41b1-9223-bbb626843f62" Title="ScopedLifestyle Class" Url="html/T_SimpleInjector_ScopedLifestyle.htm">
-      <HelpTOCNode Id="838fb56b-6ee2-4d35-a0ba-a39ec576a02b" Title="ScopedLifestyle Constructor " Url="html/Overload_SimpleInjector_ScopedLifestyle__ctor.htm">
+    <HelpTOCNode Id="1abc19b8-67b3-4917-96ea-50f94038dcc1" Title="ScopedLifestyle Class" Url="html/T_SimpleInjector_ScopedLifestyle.htm">
+      <HelpTOCNode Id="890f9ea8-cbed-4a1f-aae5-484c239009d7" Title="ScopedLifestyle Constructor " Url="html/Overload_SimpleInjector_ScopedLifestyle__ctor.htm">
         <HelpTOCNode Title="ScopedLifestyle Constructor (String)" Url="html/M_SimpleInjector_ScopedLifestyle__ctor.htm" />
         <HelpTOCNode Title="ScopedLifestyle Constructor (String, Boolean)" Url="html/M_SimpleInjector_ScopedLifestyle__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="133e7692-d391-4ace-9765-f3bba5419fe8" Title="ScopedLifestyle Properties" Url="html/Properties_T_SimpleInjector_ScopedLifestyle.htm">
+      <HelpTOCNode Id="0c37b6c7-e176-47f2-952d-ca947d62d505" Title="ScopedLifestyle Properties" Url="html/Properties_T_SimpleInjector_ScopedLifestyle.htm">
         <HelpTOCNode Title="Length Property " Url="html/P_SimpleInjector_ScopedLifestyle_Length.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="19c68399-ff90-4b16-9da9-f529fa353607" Title="ScopedLifestyle Methods" Url="html/Methods_T_SimpleInjector_ScopedLifestyle.htm">
+      <HelpTOCNode Id="759dc647-0c82-4f16-a803-1a52bdd42803" Title="ScopedLifestyle Methods" Url="html/Methods_T_SimpleInjector_ScopedLifestyle.htm">
         <HelpTOCNode Title="CreateCurrentScopeProvider Method " Url="html/M_SimpleInjector_ScopedLifestyle_CreateCurrentScopeProvider.htm" />
-        <HelpTOCNode Id="c12f9879-1a9b-4cc8-acfb-50e8a49988dc" Title="CreateRegistrationCore Method " Url="html/Overload_SimpleInjector_ScopedLifestyle_CreateRegistrationCore.htm">
+        <HelpTOCNode Id="ad084c33-34d2-4663-86d9-6820386ef246" Title="CreateRegistrationCore Method " Url="html/Overload_SimpleInjector_ScopedLifestyle_CreateRegistrationCore.htm">
           <HelpTOCNode Title="CreateRegistrationCore(TConcrete) Method (Container)" Url="html/M_SimpleInjector_ScopedLifestyle_CreateRegistrationCore__1.htm" />
           <HelpTOCNode Title="CreateRegistrationCore(TService) Method (Func(TService), Container)" Url="html/M_SimpleInjector_ScopedLifestyle_CreateRegistrationCore__1_1.htm" />
         </HelpTOCNode>
@@ -470,83 +470,83 @@
         <HelpTOCNode Title="RegisterForDisposal Method " Url="html/M_SimpleInjector_ScopedLifestyle_RegisterForDisposal.htm" />
         <HelpTOCNode Title="WhenScopeEnds Method " Url="html/M_SimpleInjector_ScopedLifestyle_WhenScopeEnds.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c8f3c755-c4f9-46f4-92d4-1ff1e824d9cd" Title="ScopedLifestyle Fields" Url="html/Fields_T_SimpleInjector_ScopedLifestyle.htm">
+      <HelpTOCNode Id="cffccc4e-0831-4e15-99ed-0f3605dc7410" Title="ScopedLifestyle Fields" Url="html/Fields_T_SimpleInjector_ScopedLifestyle.htm">
         <HelpTOCNode Title="Flowing Field" Url="html/F_SimpleInjector_ScopedLifestyle_Flowing.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6bf40243-3830-42e9-a92f-dfb489fe3543" Title="SimpleInjectorAddOptionsAspNetCoreExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAddOptionsAspNetCoreExtensions.htm">
-      <HelpTOCNode Id="58e61138-b6bc-4b9d-97db-f4bd7c3a4550" Title="SimpleInjectorAddOptionsAspNetCoreExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAddOptionsAspNetCoreExtensions.htm">
+    <HelpTOCNode Id="dad778a5-44be-4bf0-9f77-bfdada70743b" Title="SimpleInjectorAddOptionsAspNetCoreExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAddOptionsAspNetCoreExtensions.htm">
+      <HelpTOCNode Id="b1b5cfc8-2e1c-4845-b1aa-31caefc22ec3" Title="SimpleInjectorAddOptionsAspNetCoreExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAddOptionsAspNetCoreExtensions.htm">
         <HelpTOCNode Title="AddAspNetCore Method " Url="html/M_SimpleInjector_SimpleInjectorAddOptionsAspNetCoreExtensions_AddAspNetCore.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7f1202d7-a9cf-40c7-b3f4-29cfb4ef481a" Title="SimpleInjectorAspNetCoreBuilderMvcCoreExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcCoreExtensions.htm">
-      <HelpTOCNode Id="cf5d2bbc-1b6b-4377-8d39-23091d787e61" Title="SimpleInjectorAspNetCoreBuilderMvcCoreExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcCoreExtensions.htm">
+    <HelpTOCNode Id="cbf1e6e2-8805-4235-b7d3-2802affbfaeb" Title="SimpleInjectorAspNetCoreBuilderMvcCoreExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcCoreExtensions.htm">
+      <HelpTOCNode Id="49be513a-2b8e-4564-9341-73e762d07222" Title="SimpleInjectorAspNetCoreBuilderMvcCoreExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcCoreExtensions.htm">
         <HelpTOCNode Title="AddControllerActivation Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcCoreExtensions_AddControllerActivation.htm" />
         <HelpTOCNode Title="AddViewComponentActivation Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcCoreExtensions_AddViewComponentActivation.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ec0411fa-d9b9-4923-ac43-8eeb2aa72658" Title="SimpleInjectorAspNetCoreBuilderMvcExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcExtensions.htm">
-      <HelpTOCNode Id="95f17db9-81b4-440a-af71-395285027dde" Title="SimpleInjectorAspNetCoreBuilderMvcExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcExtensions.htm">
+    <HelpTOCNode Id="4f3548b4-729f-4d01-990f-76fd28c12dbd" Title="SimpleInjectorAspNetCoreBuilderMvcExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcExtensions.htm">
+      <HelpTOCNode Id="2d8e8751-16db-4a72-b47c-60d1b45281b5" Title="SimpleInjectorAspNetCoreBuilderMvcExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcExtensions.htm">
         <HelpTOCNode Title="AddPageModelActivation Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcExtensions_AddPageModelActivation.htm" />
         <HelpTOCNode Title="AddTagHelperActivation Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreBuilderMvcExtensions_AddTagHelperActivation.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="77182964-4038-4dc6-ac7d-4e556dce34fb" Title="SimpleInjectorAspNetCoreIntegrationExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions.htm">
-      <HelpTOCNode Id="b0b2c489-d736-49d2-9325-d6513e5081d9" Title="SimpleInjectorAspNetCoreIntegrationExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions.htm">
-        <HelpTOCNode Id="1dda766f-0f1e-4e4c-8c92-a36d94fa54d8" Title="AutoCrossWireAspNetComponents Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_AutoCrossWireAspNetComponents.htm">
+    <HelpTOCNode Id="4d59b8a0-45e6-4310-98fd-64bff1b3825f" Title="SimpleInjectorAspNetCoreIntegrationExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions.htm">
+      <HelpTOCNode Id="9320d1af-5691-4ed2-9a81-ce3790cdcc2f" Title="SimpleInjectorAspNetCoreIntegrationExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions.htm">
+        <HelpTOCNode Id="d8a9a60a-6095-49af-9906-a2366e418485" Title="AutoCrossWireAspNetComponents Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_AutoCrossWireAspNetComponents.htm">
           <HelpTOCNode Title="AutoCrossWireAspNetComponents Method (Container, IApplicationBuilder)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_AutoCrossWireAspNetComponents.htm" />
           <HelpTOCNode Title="AutoCrossWireAspNetComponents Method (Container, IServiceProvider)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_AutoCrossWireAspNetComponents_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5cdaa04c-df9b-4b0e-a94d-c041ff0e314b" Title="CrossWire Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_CrossWire.htm">
+        <HelpTOCNode Id="ab492b8e-d769-4440-83fa-d233ffb2f0d4" Title="CrossWire Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_CrossWire.htm">
           <HelpTOCNode Title="CrossWire(TService) Method (Container, IApplicationBuilder)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_CrossWire__1.htm" />
           <HelpTOCNode Title="CrossWire Method (Container, Type, IApplicationBuilder)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_CrossWire.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="EnableSimpleInjectorCrossWiring Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_EnableSimpleInjectorCrossWiring.htm" />
         <HelpTOCNode Title="GetRequestService(T) Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_GetRequestService__1.htm" />
         <HelpTOCNode Title="GetRequiredRequestService(T) Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_GetRequiredRequestService__1.htm" />
-        <HelpTOCNode Id="ccf311b9-ddce-4e03-8886-f98ee5fcd9c8" Title="UseMiddleware Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseMiddleware.htm">
+        <HelpTOCNode Id="4ba6b527-0ba3-42fb-b847-125f8b6c66f9" Title="UseMiddleware Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseMiddleware.htm">
           <HelpTOCNode Title="UseMiddleware(TMiddleware) Method (IApplicationBuilder, Container)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseMiddleware__1.htm" />
           <HelpTOCNode Title="UseMiddleware Method (IApplicationBuilder, Type, Container)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseMiddleware.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dc06f4ce-8a9d-4e1f-94f3-60dd6cee444b" Title="UseSimpleInjectorAspNetRequestScoping Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseSimpleInjectorAspNetRequestScoping.htm">
+        <HelpTOCNode Id="995be50f-0558-48f0-98be-959413d1058d" Title="UseSimpleInjectorAspNetRequestScoping Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseSimpleInjectorAspNetRequestScoping.htm">
           <HelpTOCNode Title="UseSimpleInjectorAspNetRequestScoping Method (IApplicationBuilder, Container)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseSimpleInjectorAspNetRequestScoping.htm" />
           <HelpTOCNode Title="UseSimpleInjectorAspNetRequestScoping Method (IServiceCollection, Container)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreIntegrationExtensions_UseSimpleInjectorAspNetRequestScoping_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9ccd81be-ca1a-466d-a7f5-9784262cf0dc" Title="SimpleInjectorAspNetCoreMvcIntegrationExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions.htm">
-      <HelpTOCNode Id="b873d8fa-6395-49d3-b874-fae5af458a5c" Title="SimpleInjectorAspNetCoreMvcIntegrationExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions.htm">
+    <HelpTOCNode Id="942029fe-0bcf-4be3-8ecf-0f23482766d7" Title="SimpleInjectorAspNetCoreMvcIntegrationExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions.htm">
+      <HelpTOCNode Id="35781d3e-6b89-4549-bad8-1396b5d35996" Title="SimpleInjectorAspNetCoreMvcIntegrationExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions.htm">
         <HelpTOCNode Title="AddSimpleInjectorTagHelperActivation Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_AddSimpleInjectorTagHelperActivation.htm" />
         <HelpTOCNode Title="RegisterMvcControllers Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_RegisterMvcControllers.htm" />
-        <HelpTOCNode Id="9068cc28-5b89-4358-96ec-8ab889ef3420" Title="RegisterMvcViewComponents Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_RegisterMvcViewComponents.htm">
+        <HelpTOCNode Id="e906dc77-0c50-4632-8de0-b0a0a02418c7" Title="RegisterMvcViewComponents Method " Url="html/Overload_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_RegisterMvcViewComponents.htm">
           <HelpTOCNode Title="RegisterMvcViewComponents Method (Container, IApplicationBuilder)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_RegisterMvcViewComponents.htm" />
           <HelpTOCNode Title="RegisterMvcViewComponents Method (Container, IViewComponentDescriptorProvider)" Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_RegisterMvcViewComponents_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RegisterPageModels Method " Url="html/M_SimpleInjector_SimpleInjectorAspNetCoreMvcIntegrationExtensions_RegisterPageModels.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6302e6dc-a94f-4fe6-b5ea-74ae01b39abe" Title="SimpleInjectorGenericHostExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorGenericHostExtensions.htm">
-      <HelpTOCNode Id="4f291395-d040-4794-a966-ef09ed72d6ce" Title="SimpleInjectorGenericHostExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorGenericHostExtensions.htm">
+    <HelpTOCNode Id="167a592a-c8d3-4b44-8dce-57ba9cfabb29" Title="SimpleInjectorGenericHostExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorGenericHostExtensions.htm">
+      <HelpTOCNode Id="3d901470-7d65-4012-bc20-39f6e549061b" Title="SimpleInjectorGenericHostExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorGenericHostExtensions.htm">
         <HelpTOCNode Title="AddHostedService(THostedService) Method " Url="html/M_SimpleInjector_SimpleInjectorGenericHostExtensions_AddHostedService__1.htm" />
-        <HelpTOCNode Id="96c4d48d-bcb4-411e-8315-9d3044a18ccb" Title="UseSimpleInjector Method " Url="html/Overload_SimpleInjector_SimpleInjectorGenericHostExtensions_UseSimpleInjector.htm">
+        <HelpTOCNode Id="3cfdf77f-3429-42fa-b882-02e79335e071" Title="UseSimpleInjector Method " Url="html/Overload_SimpleInjector_SimpleInjectorGenericHostExtensions_UseSimpleInjector.htm">
           <HelpTOCNode Title="UseSimpleInjector Method (IHost, Container)" Url="html/M_SimpleInjector_SimpleInjectorGenericHostExtensions_UseSimpleInjector.htm" />
           <HelpTOCNode Title="UseSimpleInjector Method (IHost, Container, Action(SimpleInjectorUseOptions))" Url="html/M_SimpleInjector_SimpleInjectorGenericHostExtensions_UseSimpleInjector_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d6fc91c9-b327-4574-8412-fb531ec088ea" Title="SimpleInjectorMvcExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorMvcExtensions.htm">
-      <HelpTOCNode Id="33756fb2-0876-40e0-9ea2-24ee8bab6bcf" Title="SimpleInjectorMvcExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorMvcExtensions.htm">
+    <HelpTOCNode Id="6645314b-5a88-4b10-8bda-539b38aba125" Title="SimpleInjectorMvcExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorMvcExtensions.htm">
+      <HelpTOCNode Id="3c6a50bc-84b6-4b05-a99f-fc2a17a1660b" Title="SimpleInjectorMvcExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorMvcExtensions.htm">
         <HelpTOCNode Title="GetControllerTypesToRegister Method " Url="html/M_SimpleInjector_SimpleInjectorMvcExtensions_GetControllerTypesToRegister.htm" />
         <HelpTOCNode Title="RegisterMvcControllers Method " Url="html/M_SimpleInjector_SimpleInjectorMvcExtensions_RegisterMvcControllers.htm" />
         <HelpTOCNode Title="RegisterMvcIntegratedFilterProvider Method " Url="html/M_SimpleInjector_SimpleInjectorMvcExtensions_RegisterMvcIntegratedFilterProvider.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="890bbdc1-ae25-43dd-a128-7aabee0a2db7" Title="SimpleInjectorServiceCollectionExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorServiceCollectionExtensions.htm">
-      <HelpTOCNode Id="ad4fe223-cfdf-41cb-8559-3fa76eaefc68" Title="SimpleInjectorServiceCollectionExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorServiceCollectionExtensions.htm">
+    <HelpTOCNode Id="1ccf91e1-4023-452b-9c68-2d81db04be63" Title="SimpleInjectorServiceCollectionExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorServiceCollectionExtensions.htm">
+      <HelpTOCNode Id="e88a861d-bfd8-4351-8951-0dd7c24638c4" Title="SimpleInjectorServiceCollectionExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorServiceCollectionExtensions.htm">
         <HelpTOCNode Title="AddLocalization Method " Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_AddLocalization.htm" />
         <HelpTOCNode Title="AddLogging Method " Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_AddLogging.htm" />
         <HelpTOCNode Title="AddSimpleInjector Method " Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_AddSimpleInjector.htm" />
-        <HelpTOCNode Id="e4932ca9-6c27-4fc2-8db8-6a8fc34ea2f2" Title="CrossWire Method " Url="html/Overload_SimpleInjector_SimpleInjectorServiceCollectionExtensions_CrossWire.htm">
+        <HelpTOCNode Id="eba618b8-71fe-44b1-b62c-d0d13527f82f" Title="CrossWire Method " Url="html/Overload_SimpleInjector_SimpleInjectorServiceCollectionExtensions_CrossWire.htm">
           <HelpTOCNode Title="CrossWire(TService) Method (SimpleInjectorAddOptions)" Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_CrossWire__1.htm" />
           <HelpTOCNode Title="CrossWire(TService) Method (SimpleInjectorUseOptions)" Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_CrossWire__1_1.htm" />
           <HelpTOCNode Title="CrossWire Method (SimpleInjectorAddOptions, Type)" Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_CrossWire.htm" />
@@ -554,14 +554,14 @@
         </HelpTOCNode>
         <HelpTOCNode Title="UseLocalization Method " Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_UseLocalization.htm" />
         <HelpTOCNode Title="UseLogging Method " Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_UseLogging.htm" />
-        <HelpTOCNode Id="cf6f879c-ea53-43e7-be4b-8359deb0dc1c" Title="UseSimpleInjector Method " Url="html/Overload_SimpleInjector_SimpleInjectorServiceCollectionExtensions_UseSimpleInjector.htm">
+        <HelpTOCNode Id="ac994ca6-9504-4f9c-992a-b86c8b6bca05" Title="UseSimpleInjector Method " Url="html/Overload_SimpleInjector_SimpleInjectorServiceCollectionExtensions_UseSimpleInjector.htm">
           <HelpTOCNode Title="UseSimpleInjector Method (IServiceProvider, Container)" Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_UseSimpleInjector.htm" />
           <HelpTOCNode Title="UseSimpleInjector Method (IServiceProvider, Container, Action(SimpleInjectorUseOptions))" Url="html/M_SimpleInjector_SimpleInjectorServiceCollectionExtensions_UseSimpleInjector_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8b1963e6-74dd-4723-8a4d-bc1dda7a2bf5" Title="SimpleInjectorUseOptions Class" Url="html/T_SimpleInjector_SimpleInjectorUseOptions.htm">
-      <HelpTOCNode Id="a59d5d92-d717-48c6-ad7d-fb8dcb326f2e" Title="SimpleInjectorUseOptions Properties" Url="html/Properties_T_SimpleInjector_SimpleInjectorUseOptions.htm">
+    <HelpTOCNode Id="09ee57ec-97e0-47f0-8092-3a71548ceb3b" Title="SimpleInjectorUseOptions Class" Url="html/T_SimpleInjector_SimpleInjectorUseOptions.htm">
+      <HelpTOCNode Id="56964a61-0b1b-4f5b-aefb-6de1d64b1058" Title="SimpleInjectorUseOptions Properties" Url="html/Properties_T_SimpleInjector_SimpleInjectorUseOptions.htm">
         <HelpTOCNode Title="ApplicationServices Property " Url="html/P_SimpleInjector_SimpleInjectorUseOptions_ApplicationServices.htm" />
         <HelpTOCNode Title="AutoCrossWireFrameworkComponents Property " Url="html/P_SimpleInjector_SimpleInjectorUseOptions_AutoCrossWireFrameworkComponents.htm" />
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_SimpleInjectorUseOptions_Container.htm" />
@@ -569,60 +569,60 @@
       </HelpTOCNode>
       <HelpTOCNode Title="SimpleInjectorUseOptions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorUseOptions.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1c6b2f59-ad01-49da-89f7-696b5c1b945e" Title="SimpleInjectorUseOptionsAspNetCoreExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions.htm">
-      <HelpTOCNode Id="dd8e664d-9195-4a5b-83d4-9e9794854e30" Title="SimpleInjectorUseOptionsAspNetCoreExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions.htm">
-        <HelpTOCNode Id="67d0ef34-41cc-44ed-88fd-def98fe21942" Title="UseMiddleware Method " Url="html/Overload_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseMiddleware.htm">
+    <HelpTOCNode Id="6e98020f-a81a-4d67-849f-d25165301026" Title="SimpleInjectorUseOptionsAspNetCoreExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions.htm">
+      <HelpTOCNode Id="ade256d1-e37c-47e6-80af-92e8dfe0e057" Title="SimpleInjectorUseOptionsAspNetCoreExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions.htm">
+        <HelpTOCNode Id="3a763d29-73ff-4489-9c27-762eee1aa2f2" Title="UseMiddleware Method " Url="html/Overload_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseMiddleware.htm">
           <HelpTOCNode Title="UseMiddleware(TMiddleware) Method (SimpleInjectorUseOptions, IApplicationBuilder)" Url="html/M_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseMiddleware__1.htm" />
           <HelpTOCNode Title="UseMiddleware Method (SimpleInjectorUseOptions, Type, IApplicationBuilder)" Url="html/M_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseMiddleware.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="938c3748-3026-44e0-bf3e-1e83dda85d9d" Title="UseSimpleInjector Method " Url="html/Overload_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseSimpleInjector.htm">
+        <HelpTOCNode Id="eedc6a43-fe49-4a7a-bc69-f51dbb8151b9" Title="UseSimpleInjector Method " Url="html/Overload_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseSimpleInjector.htm">
           <HelpTOCNode Title="UseSimpleInjector Method (IApplicationBuilder, Container)" Url="html/M_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseSimpleInjector.htm" />
           <HelpTOCNode Title="UseSimpleInjector Method (IApplicationBuilder, Container, Action(SimpleInjectorUseOptions))" Url="html/M_SimpleInjector_SimpleInjectorUseOptionsAspNetCoreExtensions_UseSimpleInjector_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d0a60734-597c-4183-8003-a97ceb568092" Title="SimpleInjectorWebApiExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorWebApiExtensions.htm">
-      <HelpTOCNode Id="bbb1e450-e45b-4b6e-a9e7-f63cab1ecb85" Title="SimpleInjectorWebApiExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorWebApiExtensions.htm">
+    <HelpTOCNode Id="b51d96a4-6603-4f86-b626-c1ba3027a826" Title="SimpleInjectorWebApiExtensions Class" Url="html/T_SimpleInjector_SimpleInjectorWebApiExtensions.htm">
+      <HelpTOCNode Id="eb2aab11-ef06-4143-8574-9df949a41a5c" Title="SimpleInjectorWebApiExtensions Methods" Url="html/Methods_T_SimpleInjector_SimpleInjectorWebApiExtensions.htm">
         <HelpTOCNode Title="EnableHttpRequestMessageTracking Method " Url="html/M_SimpleInjector_SimpleInjectorWebApiExtensions_EnableHttpRequestMessageTracking.htm" />
         <HelpTOCNode Title="GetCurrentHttpRequestMessage Method " Url="html/M_SimpleInjector_SimpleInjectorWebApiExtensions_GetCurrentHttpRequestMessage.htm" />
-        <HelpTOCNode Id="d8c4cd7e-4311-4a06-bb62-5d4474b227c8" Title="RegisterWebApiControllers Method " Url="html/Overload_SimpleInjector_SimpleInjectorWebApiExtensions_RegisterWebApiControllers.htm">
+        <HelpTOCNode Id="29acbe33-29b5-459b-a852-de3a1744d90b" Title="RegisterWebApiControllers Method " Url="html/Overload_SimpleInjector_SimpleInjectorWebApiExtensions_RegisterWebApiControllers.htm">
           <HelpTOCNode Title="RegisterWebApiControllers Method (Container, HttpConfiguration)" Url="html/M_SimpleInjector_SimpleInjectorWebApiExtensions_RegisterWebApiControllers.htm" />
           <HelpTOCNode Title="RegisterWebApiControllers Method (Container, HttpConfiguration, IEnumerable(Assembly))" Url="html/M_SimpleInjector_SimpleInjectorWebApiExtensions_RegisterWebApiControllers_1.htm" />
           <HelpTOCNode Title="RegisterWebApiControllers Method (Container, HttpConfiguration, Assembly[])" Url="html/M_SimpleInjector_SimpleInjectorWebApiExtensions_RegisterWebApiControllers_2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="38a79b41-cc77-45ce-b0d0-ae4b1dc43f00" Title="TypeFactoryContext Class" Url="html/T_SimpleInjector_TypeFactoryContext.htm">
-      <HelpTOCNode Id="1437af53-128b-4b3b-a94c-bce5daefaf85" Title="TypeFactoryContext Properties" Url="html/Properties_T_SimpleInjector_TypeFactoryContext.htm">
+    <HelpTOCNode Id="0b5d800b-6237-4fd2-9955-f4cca422a104" Title="TypeFactoryContext Class" Url="html/T_SimpleInjector_TypeFactoryContext.htm">
+      <HelpTOCNode Id="e64c9cc5-440e-4928-9b5c-2ada87bbd54c" Title="TypeFactoryContext Properties" Url="html/Properties_T_SimpleInjector_TypeFactoryContext.htm">
         <HelpTOCNode Title="Consumer Property " Url="html/P_SimpleInjector_TypeFactoryContext_Consumer.htm" />
         <HelpTOCNode Title="ServiceType Property " Url="html/P_SimpleInjector_TypeFactoryContext_ServiceType.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="TypeFactoryContext Methods" Url="html/Methods_T_SimpleInjector_TypeFactoryContext.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6cbab39f-5f25-4c1a-a512-3e76d1e9fc98" Title="TypesExtensions Class" Url="html/T_SimpleInjector_TypesExtensions.htm">
-      <HelpTOCNode Id="ad482b35-e86d-4705-be46-f9e019b1c950" Title="TypesExtensions Methods" Url="html/Methods_T_SimpleInjector_TypesExtensions.htm">
+    <HelpTOCNode Id="aaabffad-aa74-4ee8-b787-a6d5f72e1992" Title="TypesExtensions Class" Url="html/T_SimpleInjector_TypesExtensions.htm">
+      <HelpTOCNode Id="32c9f446-2731-4f81-8368-9a8475728db6" Title="TypesExtensions Methods" Url="html/Methods_T_SimpleInjector_TypesExtensions.htm">
         <HelpTOCNode Title="GetClosedTypeOf Method " Url="html/M_SimpleInjector_TypesExtensions_GetClosedTypeOf.htm" />
         <HelpTOCNode Title="GetClosedTypesOf Method " Url="html/M_SimpleInjector_TypesExtensions_GetClosedTypesOf.htm" />
         <HelpTOCNode Title="IsClosedTypeOf Method " Url="html/M_SimpleInjector_TypesExtensions_IsClosedTypeOf.htm" />
         <HelpTOCNode Title="ToFriendlyName Method " Url="html/M_SimpleInjector_TypesExtensions_ToFriendlyName.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f4f2cfb8-5962-487e-b193-4e52d50e921d" Title="TypesToRegisterOptions Class" Url="html/T_SimpleInjector_TypesToRegisterOptions.htm">
+    <HelpTOCNode Id="31f3df96-a1d7-4a26-b989-c017cbb417b0" Title="TypesToRegisterOptions Class" Url="html/T_SimpleInjector_TypesToRegisterOptions.htm">
       <HelpTOCNode Title="TypesToRegisterOptions Constructor " Url="html/M_SimpleInjector_TypesToRegisterOptions__ctor.htm" />
-      <HelpTOCNode Id="1a7cc8fe-23cd-4a0d-b192-e781bb88cd6c" Title="TypesToRegisterOptions Properties" Url="html/Properties_T_SimpleInjector_TypesToRegisterOptions.htm">
+      <HelpTOCNode Id="f8c25ec1-d53a-43ac-826f-650ab8823053" Title="TypesToRegisterOptions Properties" Url="html/Properties_T_SimpleInjector_TypesToRegisterOptions.htm">
         <HelpTOCNode Title="IncludeComposites Property " Url="html/P_SimpleInjector_TypesToRegisterOptions_IncludeComposites.htm" />
         <HelpTOCNode Title="IncludeDecorators Property " Url="html/P_SimpleInjector_TypesToRegisterOptions_IncludeDecorators.htm" />
         <HelpTOCNode Title="IncludeGenericTypeDefinitions Property " Url="html/P_SimpleInjector_TypesToRegisterOptions_IncludeGenericTypeDefinitions.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="TypesToRegisterOptions Methods" Url="html/Methods_T_SimpleInjector_TypesToRegisterOptions.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b2deccd5-8457-45fa-b5ba-66d415381a90" Title="UnregisteredTypeEventArgs Class" Url="html/T_SimpleInjector_UnregisteredTypeEventArgs.htm">
-      <HelpTOCNode Id="e9147e14-cbea-486c-addd-4ad652c7d12e" Title="UnregisteredTypeEventArgs Properties" Url="html/Properties_T_SimpleInjector_UnregisteredTypeEventArgs.htm">
+    <HelpTOCNode Id="cd275d2c-84cb-44ed-88c3-a7c7e3d213ca" Title="UnregisteredTypeEventArgs Class" Url="html/T_SimpleInjector_UnregisteredTypeEventArgs.htm">
+      <HelpTOCNode Id="0701b2eb-1eba-4326-93f9-34a9fb963b0d" Title="UnregisteredTypeEventArgs Properties" Url="html/Properties_T_SimpleInjector_UnregisteredTypeEventArgs.htm">
         <HelpTOCNode Title="Handled Property " Url="html/P_SimpleInjector_UnregisteredTypeEventArgs_Handled.htm" />
         <HelpTOCNode Title="UnregisteredServiceType Property " Url="html/P_SimpleInjector_UnregisteredTypeEventArgs_UnregisteredServiceType.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5708cbdc-4ee0-484e-9336-6585a0244b90" Title="UnregisteredTypeEventArgs Methods" Url="html/Methods_T_SimpleInjector_UnregisteredTypeEventArgs.htm">
-        <HelpTOCNode Id="13b41be7-0d22-4396-b762-811e16b9472b" Title="Register Method " Url="html/Overload_SimpleInjector_UnregisteredTypeEventArgs_Register.htm">
+      <HelpTOCNode Id="a3c62dde-cf2e-43dd-bbec-1c2e0c391124" Title="UnregisteredTypeEventArgs Methods" Url="html/Methods_T_SimpleInjector_UnregisteredTypeEventArgs.htm">
+        <HelpTOCNode Id="31945d36-fdcd-4872-b127-7ae071900fa3" Title="Register Method " Url="html/Overload_SimpleInjector_UnregisteredTypeEventArgs_Register.htm">
           <HelpTOCNode Title="Register Method (Func(Object))" Url="html/M_SimpleInjector_UnregisteredTypeEventArgs_Register_1.htm" />
           <HelpTOCNode Title="Register Method (Expression)" Url="html/M_SimpleInjector_UnregisteredTypeEventArgs_Register_2.htm" />
           <HelpTOCNode Title="Register Method (Registration)" Url="html/M_SimpleInjector_UnregisteredTypeEventArgs_Register.htm" />
@@ -630,19 +630,19 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="VerificationOption Enumeration" Url="html/T_SimpleInjector_VerificationOption.htm" />
-    <HelpTOCNode Id="35d9a2be-4859-434e-bd0d-de84ef1aedeb" Title="VisualizationOptions Class" Url="html/T_SimpleInjector_VisualizationOptions.htm">
+    <HelpTOCNode Id="f3ea7a67-23ae-4268-89cf-6e6fb9acb2f7" Title="VisualizationOptions Class" Url="html/T_SimpleInjector_VisualizationOptions.htm">
       <HelpTOCNode Title="VisualizationOptions Constructor " Url="html/M_SimpleInjector_VisualizationOptions__ctor.htm" />
-      <HelpTOCNode Id="f8cd7a42-32d5-420b-b6b3-0502f38437fd" Title="VisualizationOptions Properties" Url="html/Properties_T_SimpleInjector_VisualizationOptions.htm">
+      <HelpTOCNode Id="aec61baa-b8da-4e2d-a205-39f62ec02e08" Title="VisualizationOptions Properties" Url="html/Properties_T_SimpleInjector_VisualizationOptions.htm">
         <HelpTOCNode Title="IncludeLifestyleInformation Property " Url="html/P_SimpleInjector_VisualizationOptions_IncludeLifestyleInformation.htm" />
         <HelpTOCNode Title="UseFullyQualifiedTypeNames Property " Url="html/P_SimpleInjector_VisualizationOptions_UseFullyQualifiedTypeNames.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="VisualizationOptions Methods" Url="html/Methods_T_SimpleInjector_VisualizationOptions.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="7796accf-5613-452c-ae5c-5f7ecab03629" Title="SimpleInjector.Advanced" Url="html/N_SimpleInjector_Advanced.htm">
-    <HelpTOCNode Id="d7d5f479-bfd2-42c9-85bf-64fe32fb2778" Title="AdvancedExtensions Class" Url="html/T_SimpleInjector_Advanced_AdvancedExtensions.htm">
-      <HelpTOCNode Id="8bb87b58-0175-461e-9b68-6df90fb5e1b5" Title="AdvancedExtensions Methods" Url="html/Methods_T_SimpleInjector_Advanced_AdvancedExtensions.htm">
-        <HelpTOCNode Id="8601885f-0234-44cd-a4b1-01cdb86d1d21" Title="AppendToCollection Method " Url="html/Overload_SimpleInjector_Advanced_AdvancedExtensions_AppendToCollection.htm">
+  <HelpTOCNode Id="6226fb8b-a032-499b-9cc6-a0022fee4e3e" Title="SimpleInjector.Advanced" Url="html/N_SimpleInjector_Advanced.htm">
+    <HelpTOCNode Id="927b6058-8737-4a01-9c30-91c0ff642fbe" Title="AdvancedExtensions Class" Url="html/T_SimpleInjector_Advanced_AdvancedExtensions.htm">
+      <HelpTOCNode Id="b0f2c088-c0bd-4784-847f-4cb25c3b3a72" Title="AdvancedExtensions Methods" Url="html/Methods_T_SimpleInjector_Advanced_AdvancedExtensions.htm">
+        <HelpTOCNode Id="20d8e900-55fa-4f86-8f00-86962f33821d" Title="AppendToCollection Method " Url="html/Overload_SimpleInjector_Advanced_AdvancedExtensions_AppendToCollection.htm">
           <HelpTOCNode Title="AppendToCollection Method (Container, Type, Registration)" Url="html/M_SimpleInjector_Advanced_AdvancedExtensions_AppendToCollection.htm" />
           <HelpTOCNode Title="AppendToCollection Method (Container, Type, Type)" Url="html/M_SimpleInjector_Advanced_AdvancedExtensions_AppendToCollection_1.htm" />
         </HelpTOCNode>
@@ -653,81 +653,81 @@
         <HelpTOCNode Title="SetItem Method " Url="html/M_SimpleInjector_Advanced_AdvancedExtensions_SetItem.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c09756ae-152c-4f3a-821c-36859a21d7ed" Title="ApiObject Class" Url="html/T_SimpleInjector_Advanced_ApiObject.htm">
+    <HelpTOCNode Id="04a3cf5a-e07f-4c60-bc42-7c3dbdd8d2b5" Title="ApiObject Class" Url="html/T_SimpleInjector_Advanced_ApiObject.htm">
       <HelpTOCNode Title="ApiObject Constructor " Url="html/M_SimpleInjector_Advanced_ApiObject__ctor.htm" />
-      <HelpTOCNode Id="df106665-b5f7-4f88-bcdc-82fb49adcf4e" Title="ApiObject Methods" Url="html/Methods_T_SimpleInjector_Advanced_ApiObject.htm">
+      <HelpTOCNode Id="004e4104-e9e4-40c1-b4b5-828b9555e5ce" Title="ApiObject Methods" Url="html/Methods_T_SimpleInjector_Advanced_ApiObject.htm">
         <HelpTOCNode Title="Equals Method " Url="html/M_SimpleInjector_Advanced_ApiObject_Equals.htm" />
         <HelpTOCNode Title="GetHashCode Method " Url="html/M_SimpleInjector_Advanced_ApiObject_GetHashCode.htm" />
         <HelpTOCNode Title="GetType Method " Url="html/M_SimpleInjector_Advanced_ApiObject_GetType.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SimpleInjector_Advanced_ApiObject_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f74ac27d-bd0a-45bc-85f5-831b7c6a3c65" Title="BehaviorDeprecationExtensions Class" Url="html/T_SimpleInjector_Advanced_BehaviorDeprecationExtensions.htm">
-      <HelpTOCNode Id="e07bcace-da03-490e-a708-7af2063c4dfb" Title="BehaviorDeprecationExtensions Methods" Url="html/Methods_T_SimpleInjector_Advanced_BehaviorDeprecationExtensions.htm">
+    <HelpTOCNode Id="2b77f452-8ffe-445f-8dab-7991b9c599ea" Title="BehaviorDeprecationExtensions Class" Url="html/T_SimpleInjector_Advanced_BehaviorDeprecationExtensions.htm">
+      <HelpTOCNode Id="9ea21e22-2bde-46f7-9ebc-53d88fdd3f35" Title="BehaviorDeprecationExtensions Methods" Url="html/Methods_T_SimpleInjector_Advanced_BehaviorDeprecationExtensions.htm">
         <HelpTOCNode Title="BuildExpression Method " Url="html/M_SimpleInjector_Advanced_BehaviorDeprecationExtensions_BuildExpression.htm" />
         <HelpTOCNode Title="SelectProperty Method " Url="html/M_SimpleInjector_Advanced_BehaviorDeprecationExtensions_SelectProperty.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0f9fec3f-4426-465c-90c6-ec94e64398f5" Title="IConstructorResolutionBehavior Interface" Url="html/T_SimpleInjector_Advanced_IConstructorResolutionBehavior.htm">
-      <HelpTOCNode Id="f68097f6-5ae8-47cf-8b29-4f71cbf1d588" Title="IConstructorResolutionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_IConstructorResolutionBehavior.htm">
+    <HelpTOCNode Id="1115d964-7b25-4f5f-adc5-653aaf2cd792" Title="IConstructorResolutionBehavior Interface" Url="html/T_SimpleInjector_Advanced_IConstructorResolutionBehavior.htm">
+      <HelpTOCNode Id="67bcc1d0-312e-4280-8b1a-9d5c5a5112a8" Title="IConstructorResolutionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_IConstructorResolutionBehavior.htm">
         <HelpTOCNode Title="GetConstructor Method " Url="html/M_SimpleInjector_Advanced_IConstructorResolutionBehavior_GetConstructor.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8345889b-a03f-4c1c-aea9-dc4588aab49c" Title="IDependencyInjectionBehavior Interface" Url="html/T_SimpleInjector_Advanced_IDependencyInjectionBehavior.htm">
-      <HelpTOCNode Id="bf7df86f-91af-4919-bc09-5741f9646bf7" Title="IDependencyInjectionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_IDependencyInjectionBehavior.htm">
+    <HelpTOCNode Id="7bb7ca48-458a-4bb0-8cb1-663a200d5ff2" Title="IDependencyInjectionBehavior Interface" Url="html/T_SimpleInjector_Advanced_IDependencyInjectionBehavior.htm">
+      <HelpTOCNode Id="7cf89c94-2531-4347-9bb5-85be9f18a48f" Title="IDependencyInjectionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_IDependencyInjectionBehavior.htm">
         <HelpTOCNode Title="GetInstanceProducer Method " Url="html/M_SimpleInjector_Advanced_IDependencyInjectionBehavior_GetInstanceProducer.htm" />
         <HelpTOCNode Title="Verify Method " Url="html/M_SimpleInjector_Advanced_IDependencyInjectionBehavior_Verify.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5a82c4c6-1a6e-4ee7-a2b7-1d426c14e87d" Title="ILifestyleSelectionBehavior Interface" Url="html/T_SimpleInjector_Advanced_ILifestyleSelectionBehavior.htm">
-      <HelpTOCNode Id="9b56f8fa-f9e0-4ea1-8273-09e548013040" Title="ILifestyleSelectionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_ILifestyleSelectionBehavior.htm">
+    <HelpTOCNode Id="55838d63-9cde-4476-af71-4d94f28ea833" Title="ILifestyleSelectionBehavior Interface" Url="html/T_SimpleInjector_Advanced_ILifestyleSelectionBehavior.htm">
+      <HelpTOCNode Id="084de438-606a-4e5f-b69e-129ffd393994" Title="ILifestyleSelectionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_ILifestyleSelectionBehavior.htm">
         <HelpTOCNode Title="SelectLifestyle Method " Url="html/M_SimpleInjector_Advanced_ILifestyleSelectionBehavior_SelectLifestyle.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1b43a631-ea11-40e9-a9ce-28ed8290fb02" Title="InitializationContext Class" Url="html/T_SimpleInjector_Advanced_InitializationContext.htm">
-      <HelpTOCNode Id="ef5a78f7-0543-4683-82a8-60a3cc960ef4" Title="InitializationContext Properties" Url="html/Properties_T_SimpleInjector_Advanced_InitializationContext.htm">
+    <HelpTOCNode Id="1a5f2314-2ee7-48b1-9880-9bd99eab114d" Title="InitializationContext Class" Url="html/T_SimpleInjector_Advanced_InitializationContext.htm">
+      <HelpTOCNode Id="06673d82-5939-4923-b38b-420d42b0734e" Title="InitializationContext Properties" Url="html/Properties_T_SimpleInjector_Advanced_InitializationContext.htm">
         <HelpTOCNode Title="Producer Property " Url="html/P_SimpleInjector_Advanced_InitializationContext_Producer.htm" />
         <HelpTOCNode Title="Registration Property " Url="html/P_SimpleInjector_Advanced_InitializationContext_Registration.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5b3e5654-dd05-4a95-b606-c53969537252" Title="InitializerContext Class" Url="html/T_SimpleInjector_Advanced_InitializerContext.htm">
-      <HelpTOCNode Id="02471cc9-1177-4427-90a8-954f1f4fa6a0" Title="InitializerContext Properties" Url="html/Properties_T_SimpleInjector_Advanced_InitializerContext.htm">
+    <HelpTOCNode Id="e7f81f6c-8949-44be-851b-75c0e0375c7d" Title="InitializerContext Class" Url="html/T_SimpleInjector_Advanced_InitializerContext.htm">
+      <HelpTOCNode Id="2f5caa69-c7f0-4c6e-b6ef-ce90d45922c0" Title="InitializerContext Properties" Url="html/Properties_T_SimpleInjector_Advanced_InitializerContext.htm">
         <HelpTOCNode Title="Producer Property " Url="html/P_SimpleInjector_Advanced_InitializerContext_Producer.htm" />
         <HelpTOCNode Title="Registration Property " Url="html/P_SimpleInjector_Advanced_InitializerContext_Registration.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e9e4f0e9-31c7-4b05-8f28-0ed5f5a1fcac" Title="InstanceInitializationData Structure" Url="html/T_SimpleInjector_Advanced_InstanceInitializationData.htm">
+    <HelpTOCNode Id="11d565ab-cb71-4f0b-ae85-eb9e4d20aa25" Title="InstanceInitializationData Structure" Url="html/T_SimpleInjector_Advanced_InstanceInitializationData.htm">
       <HelpTOCNode Title="InstanceInitializationData Constructor " Url="html/M_SimpleInjector_Advanced_InstanceInitializationData__ctor.htm" />
-      <HelpTOCNode Id="a137aa48-7af5-49dc-9836-aafc46000f68" Title="InstanceInitializationData Properties" Url="html/Properties_T_SimpleInjector_Advanced_InstanceInitializationData.htm">
+      <HelpTOCNode Id="6a445a05-b726-4afc-aa17-ad9b5eaf7b8e" Title="InstanceInitializationData Properties" Url="html/Properties_T_SimpleInjector_Advanced_InstanceInitializationData.htm">
         <HelpTOCNode Title="Context Property " Url="html/P_SimpleInjector_Advanced_InstanceInitializationData_Context.htm" />
         <HelpTOCNode Title="Instance Property " Url="html/P_SimpleInjector_Advanced_InstanceInitializationData_Instance.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dae1f0dd-928e-4e73-be3f-13e9792eee2e" Title="InstanceInitializationData Methods" Url="html/Methods_T_SimpleInjector_Advanced_InstanceInitializationData.htm">
-        <HelpTOCNode Id="d51d4343-e222-403d-bf02-18a9ef476da7" Title="Equals Method " Url="html/Overload_SimpleInjector_Advanced_InstanceInitializationData_Equals.htm">
+      <HelpTOCNode Id="09e05e04-0c6e-4bf8-93e8-7aa963f1ff05" Title="InstanceInitializationData Methods" Url="html/Methods_T_SimpleInjector_Advanced_InstanceInitializationData.htm">
+        <HelpTOCNode Id="c23dd14f-bbe7-49b6-a07f-48c09ce15fb0" Title="Equals Method " Url="html/Overload_SimpleInjector_Advanced_InstanceInitializationData_Equals.htm">
           <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SimpleInjector_Advanced_InstanceInitializationData_Equals_1.htm" />
           <HelpTOCNode Title="Equals Method (InstanceInitializationData)" Url="html/M_SimpleInjector_Advanced_InstanceInitializationData_Equals.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetHashCode Method " Url="html/M_SimpleInjector_Advanced_InstanceInitializationData_GetHashCode.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7f75927d-6985-43c3-9764-7b9156667332" Title="InstanceInitializationData Operators" Url="html/Operators_T_SimpleInjector_Advanced_InstanceInitializationData.htm">
+      <HelpTOCNode Id="22da9bab-09cb-4a53-bc0d-746da75ac82e" Title="InstanceInitializationData Operators" Url="html/Operators_T_SimpleInjector_Advanced_InstanceInitializationData.htm">
         <HelpTOCNode Title="Equality Operator " Url="html/M_SimpleInjector_Advanced_InstanceInitializationData_op_Equality.htm" />
         <HelpTOCNode Title="Inequality Operator " Url="html/M_SimpleInjector_Advanced_InstanceInitializationData_op_Inequality.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fbe887e5-3d03-4881-8b35-86980397ab61" Title="IPropertySelectionBehavior Interface" Url="html/T_SimpleInjector_Advanced_IPropertySelectionBehavior.htm">
-      <HelpTOCNode Id="883447a0-974a-46e8-a919-c14eca0c9917" Title="IPropertySelectionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_IPropertySelectionBehavior.htm">
+    <HelpTOCNode Id="4ed4ef45-78c6-452f-99aa-0359854f069a" Title="IPropertySelectionBehavior Interface" Url="html/T_SimpleInjector_Advanced_IPropertySelectionBehavior.htm">
+      <HelpTOCNode Id="ae0ede1f-95a3-4e04-b245-7c5c4e1e9bd1" Title="IPropertySelectionBehavior Methods" Url="html/Methods_T_SimpleInjector_Advanced_IPropertySelectionBehavior.htm">
         <HelpTOCNode Title="SelectProperty Method " Url="html/M_SimpleInjector_Advanced_IPropertySelectionBehavior_SelectProperty.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="797a6e32-fd85-4df6-8492-4bfa8ce9b6ac" Title="KnownRelationship Class" Url="html/T_SimpleInjector_Advanced_KnownRelationship.htm">
+    <HelpTOCNode Id="77ddb105-9ece-47aa-a71f-e5af0d9cf877" Title="KnownRelationship Class" Url="html/T_SimpleInjector_Advanced_KnownRelationship.htm">
       <HelpTOCNode Title="KnownRelationship Constructor " Url="html/M_SimpleInjector_Advanced_KnownRelationship__ctor.htm" />
-      <HelpTOCNode Id="3fff234a-9c36-408e-992b-d7ec7a92d00a" Title="KnownRelationship Properties" Url="html/Properties_T_SimpleInjector_Advanced_KnownRelationship.htm">
+      <HelpTOCNode Id="6916c9c2-c183-4ff2-bcc8-40c874032f10" Title="KnownRelationship Properties" Url="html/Properties_T_SimpleInjector_Advanced_KnownRelationship.htm">
         <HelpTOCNode Title="Dependency Property " Url="html/P_SimpleInjector_Advanced_KnownRelationship_Dependency.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_Advanced_KnownRelationship_ImplementationType.htm" />
         <HelpTOCNode Title="Lifestyle Property " Url="html/P_SimpleInjector_Advanced_KnownRelationship_Lifestyle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dbb06179-4275-4b99-9772-69fd28f4ca4e" Title="KnownRelationship Methods" Url="html/Methods_T_SimpleInjector_Advanced_KnownRelationship.htm">
-        <HelpTOCNode Id="fdfe4493-c9f0-4144-a962-4ca88541e2ba" Title="Equals Method " Url="html/Overload_SimpleInjector_Advanced_KnownRelationship_Equals.htm">
+      <HelpTOCNode Id="f200bc0f-eac9-4a30-a7df-6daef88a39b8" Title="KnownRelationship Methods" Url="html/Methods_T_SimpleInjector_Advanced_KnownRelationship.htm">
+        <HelpTOCNode Id="bdbb1281-adeb-40d1-a74f-3c685b66073b" Title="Equals Method " Url="html/Overload_SimpleInjector_Advanced_KnownRelationship_Equals.htm">
           <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SimpleInjector_Advanced_KnownRelationship_Equals_1.htm" />
           <HelpTOCNode Title="Equals Method (KnownRelationship)" Url="html/M_SimpleInjector_Advanced_KnownRelationship_Equals.htm" />
         </HelpTOCNode>
@@ -735,27 +735,27 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="accf0c5b-a69c-4109-b3df-b84c20975727" Title="SimpleInjector.Diagnostics" Url="html/N_SimpleInjector_Diagnostics.htm">
-    <HelpTOCNode Id="5ee81ce2-7191-4375-87a0-85aea54f862d" Title="AmbiguousLifestylesDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult.htm">
-      <HelpTOCNode Id="2b7c36f4-6945-4165-82ec-02691c602d6d" Title="AmbiguousLifestylesDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult.htm">
+  <HelpTOCNode Id="bce87383-529d-43e5-bb8b-208d1b3a9848" Title="SimpleInjector.Diagnostics" Url="html/N_SimpleInjector_Diagnostics.htm">
+    <HelpTOCNode Id="3479c6f8-0be1-42dd-915e-20594b69a308" Title="AmbiguousLifestylesDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult.htm">
+      <HelpTOCNode Id="d7147bb5-50cc-49d9-b341-3bc33d0be21c" Title="AmbiguousLifestylesDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult.htm">
         <HelpTOCNode Title="ConflictingRegistrations Property " Url="html/P_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult_ConflictingRegistrations.htm" />
         <HelpTOCNode Title="DiagnosedRegistration Property " Url="html/P_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult_DiagnosedRegistration.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult_ImplementationType.htm" />
         <HelpTOCNode Title="Lifestyles Property " Url="html/P_SimpleInjector_Diagnostics_AmbiguousLifestylesDiagnosticResult_Lifestyles.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f975bedb-2b20-4607-8e5f-02268b0e9879" Title="Analyzer Class" Url="html/T_SimpleInjector_Diagnostics_Analyzer.htm">
-      <HelpTOCNode Id="b280eada-5e74-4f30-a73d-68aa54c105b9" Title="Analyzer Methods" Url="html/Methods_T_SimpleInjector_Diagnostics_Analyzer.htm">
+    <HelpTOCNode Id="6d54641f-a27c-4328-96b9-0a04e651b1c0" Title="Analyzer Class" Url="html/T_SimpleInjector_Diagnostics_Analyzer.htm">
+      <HelpTOCNode Id="84a0187d-be6b-4e32-aaf9-2bd0711a054c" Title="Analyzer Methods" Url="html/Methods_T_SimpleInjector_Diagnostics_Analyzer.htm">
         <HelpTOCNode Title="Analyze Method " Url="html/M_SimpleInjector_Diagnostics_Analyzer_Analyze.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a867575a-259c-4256-9bfa-7e54c6263793" Title="ContainerRegisteredServiceDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_ContainerRegisteredServiceDiagnosticResult.htm">
-      <HelpTOCNode Id="f7cc20fb-faa4-424c-bbc3-4ad4943747b5" Title="ContainerRegisteredServiceDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_ContainerRegisteredServiceDiagnosticResult.htm">
+    <HelpTOCNode Id="125a43df-1619-4baf-a34f-395083c5f4f8" Title="ContainerRegisteredServiceDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_ContainerRegisteredServiceDiagnosticResult.htm">
+      <HelpTOCNode Id="5e68f17a-36c5-4a14-977d-ac060f77a66a" Title="ContainerRegisteredServiceDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_ContainerRegisteredServiceDiagnosticResult.htm">
         <HelpTOCNode Title="Relationships Property " Url="html/P_SimpleInjector_Diagnostics_ContainerRegisteredServiceDiagnosticResult_Relationships.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fc0c00e6-d3a6-4651-ac3c-884e5f94aa58" Title="DiagnosticGroup Class" Url="html/T_SimpleInjector_Diagnostics_DiagnosticGroup.htm">
-      <HelpTOCNode Id="c0a1ac4c-12c6-481f-8807-21c40533bb6a" Title="DiagnosticGroup Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_DiagnosticGroup.htm">
+    <HelpTOCNode Id="f77f5cf8-fe1b-4a07-8750-85070be6bc45" Title="DiagnosticGroup Class" Url="html/T_SimpleInjector_Diagnostics_DiagnosticGroup.htm">
+      <HelpTOCNode Id="25d11b41-8c4b-476b-8670-72a9cc9ccc61" Title="DiagnosticGroup Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_DiagnosticGroup.htm">
         <HelpTOCNode Title="Children Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticGroup_Children.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticGroup_Description.htm" />
         <HelpTOCNode Title="DiagnosticType Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticGroup_DiagnosticType.htm" />
@@ -765,8 +765,8 @@
         <HelpTOCNode Title="Results Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticGroup_Results.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8965fac3-23d4-4d7f-9088-f720b8eef9b7" Title="DiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_DiagnosticResult.htm">
-      <HelpTOCNode Id="daf524a6-ff1d-482f-9bfd-c67c956793ce" Title="DiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_DiagnosticResult.htm">
+    <HelpTOCNode Id="dd9ee90e-f36a-4314-b2d4-6de99df657da" Title="DiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_DiagnosticResult.htm">
+      <HelpTOCNode Id="dc099e3b-0aa6-40e8-a98d-4056b09b6e8f" Title="DiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_DiagnosticResult.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticResult_Description.htm" />
         <HelpTOCNode Title="DiagnosticType Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticResult_DiagnosticType.htm" />
         <HelpTOCNode Title="DocumentationUrl Property " Url="html/P_SimpleInjector_Diagnostics_DiagnosticResult_DocumentationUrl.htm" />
@@ -777,93 +777,93 @@
     </HelpTOCNode>
     <HelpTOCNode Title="DiagnosticSeverity Enumeration" Url="html/T_SimpleInjector_Diagnostics_DiagnosticSeverity.htm" />
     <HelpTOCNode Title="DiagnosticType Enumeration" Url="html/T_SimpleInjector_Diagnostics_DiagnosticType.htm" />
-    <HelpTOCNode Id="04c286e9-4299-4901-b97b-80d61433d110" Title="DisposableTransientComponentDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_DisposableTransientComponentDiagnosticResult.htm">
-      <HelpTOCNode Id="fc302e16-c93f-4f00-ab60-1d1f0d13bca6" Title="DisposableTransientComponentDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_DisposableTransientComponentDiagnosticResult.htm">
+    <HelpTOCNode Id="37b4b4c4-3513-4e97-a074-0202920a68b3" Title="DisposableTransientComponentDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_DisposableTransientComponentDiagnosticResult.htm">
+      <HelpTOCNode Id="630e3dba-d666-4802-b24f-71e4bf2890d8" Title="DisposableTransientComponentDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_DisposableTransientComponentDiagnosticResult.htm">
         <HelpTOCNode Title="Registration Property " Url="html/P_SimpleInjector_Diagnostics_DisposableTransientComponentDiagnosticResult_Registration.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="eb60cbc8-2eed-434a-a943-404373dda576" Title="LifestyleMismatchDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_LifestyleMismatchDiagnosticResult.htm">
-      <HelpTOCNode Id="875e8c7b-e2c4-4dd6-aa94-c588cee135d3" Title="LifestyleMismatchDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_LifestyleMismatchDiagnosticResult.htm">
+    <HelpTOCNode Id="a682d3d1-156a-44bd-bc76-629dcb81f27b" Title="LifestyleMismatchDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_LifestyleMismatchDiagnosticResult.htm">
+      <HelpTOCNode Id="00d9cb4b-dfdd-43b8-8248-969c0546f9ec" Title="LifestyleMismatchDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_LifestyleMismatchDiagnosticResult.htm">
         <HelpTOCNode Title="Relationship Property " Url="html/P_SimpleInjector_Diagnostics_LifestyleMismatchDiagnosticResult_Relationship.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c0e404a0-f630-4ace-acc0-7ad61086536d" Title="ShortCircuitedDependencyDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult.htm">
-      <HelpTOCNode Id="716ca65f-9b4a-4689-811f-86309adc7a83" Title="ShortCircuitedDependencyDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult.htm">
+    <HelpTOCNode Id="6e39b8c2-aa27-4aca-88e9-d94e797e7ccf" Title="ShortCircuitedDependencyDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult.htm">
+      <HelpTOCNode Id="b456d187-4646-4b4b-858a-40d3ba6631cb" Title="ShortCircuitedDependencyDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult.htm">
         <HelpTOCNode Title="ExpectedDependencies Property " Url="html/P_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult_ExpectedDependencies.htm" />
         <HelpTOCNode Title="Relationship Property " Url="html/P_SimpleInjector_Diagnostics_ShortCircuitedDependencyDiagnosticResult_Relationship.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="12ffda19-4fa2-4f4d-a2d4-bed7ddfdb80d" Title="SingleResponsibilityViolationDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult.htm">
-      <HelpTOCNode Id="30b9e861-b77a-41c5-a9ae-d51cc60b56e2" Title="SingleResponsibilityViolationDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult.htm">
+    <HelpTOCNode Id="d9db358d-d544-4838-a14d-3aa480c47327" Title="SingleResponsibilityViolationDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult.htm">
+      <HelpTOCNode Id="2f298a21-5032-4ebe-9c0f-5effd94d5602" Title="SingleResponsibilityViolationDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult.htm">
         <HelpTOCNode Title="Dependencies Property " Url="html/P_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult_Dependencies.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_Diagnostics_SingleResponsibilityViolationDiagnosticResult_ImplementationType.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="12387a4e-a0fa-49b1-b37f-0216050d7597" Title="TornLifestyleDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult.htm">
-      <HelpTOCNode Id="02aab492-86fa-40f2-a0db-c978ff381f07" Title="TornLifestyleDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult.htm">
+    <HelpTOCNode Id="6698e253-3e1d-44b3-8fe4-e997cfc3a476" Title="TornLifestyleDiagnosticResult Class" Url="html/T_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult.htm">
+      <HelpTOCNode Id="6d834018-6dbe-4887-ae70-c23ed36ad62a" Title="TornLifestyleDiagnosticResult Properties" Url="html/Properties_T_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult.htm">
         <HelpTOCNode Title="AffectedRegistrations Property " Url="html/P_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult_AffectedRegistrations.htm" />
         <HelpTOCNode Title="ImplementationType Property " Url="html/P_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult_ImplementationType.htm" />
         <HelpTOCNode Title="Lifestyle Property " Url="html/P_SimpleInjector_Diagnostics_TornLifestyleDiagnosticResult_Lifestyle.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="7e555994-188c-41bc-a7ee-8b658fc6caf5" Title="SimpleInjector.Integration.AspNetCore" Url="html/N_SimpleInjector_Integration_AspNetCore.htm">
-    <HelpTOCNode Id="bf2df22c-82cf-46e4-a398-64fffd532f3f" Title="AspNetRequestLifestyle Class" Url="html/T_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle.htm">
-      <HelpTOCNode Id="2a510c70-3cd4-4cfe-a688-7c7fc9fb11ab" Title="AspNetRequestLifestyle Constructor " Url="html/Overload_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle__ctor.htm">
+  <HelpTOCNode Id="c859f672-c355-4ccd-a8a4-929ffe0dc6ab" Title="SimpleInjector.Integration.AspNetCore" Url="html/N_SimpleInjector_Integration_AspNetCore.htm">
+    <HelpTOCNode Id="4608ce01-fa69-4f42-af7d-aae08c42d6bb" Title="AspNetRequestLifestyle Class" Url="html/T_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle.htm">
+      <HelpTOCNode Id="a5cb6f69-b1ae-4657-9433-9b3688bef2c8" Title="AspNetRequestLifestyle Constructor " Url="html/Overload_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle__ctor.htm">
         <HelpTOCNode Title="AspNetRequestLifestyle Constructor " Url="html/M_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle__ctor.htm" />
         <HelpTOCNode Title="AspNetRequestLifestyle Constructor (Boolean)" Url="html/M_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="AspNetRequestLifestyle Properties" Url="html/Properties_T_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle.htm" />
       <HelpTOCNode Title="AspNetRequestLifestyle Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_AspNetRequestLifestyle.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="e923ef60-edf4-404a-9038-887923073d1c" Title="SimpleInjectorAspNetCoreBuilder Class" Url="html/T_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder.htm">
-      <HelpTOCNode Id="f56f4cb6-75ae-4252-bfba-c2294f0f28a3" Title="SimpleInjectorAspNetCoreBuilder Properties" Url="html/Properties_T_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder.htm">
+    <HelpTOCNode Id="0753a88f-5499-4cf3-937b-3e1c6bf88b60" Title="SimpleInjectorAspNetCoreBuilder Class" Url="html/T_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder.htm">
+      <HelpTOCNode Id="acb617fe-05d6-4da1-8391-2bdbbc8b5495" Title="SimpleInjectorAspNetCoreBuilder Properties" Url="html/Properties_T_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder.htm">
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder_Container.htm" />
         <HelpTOCNode Title="Services Property " Url="html/P_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder_Services.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="SimpleInjectorAspNetCoreBuilder Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_SimpleInjectorAspNetCoreBuilder.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="8d8fcf9e-4550-412e-8371-af6b38516a59" Title="SimpleInjector.Integration.AspNetCore.Mvc" Url="html/N_SimpleInjector_Integration_AspNetCore_Mvc.htm">
-    <HelpTOCNode Id="52c04276-8568-42d6-89c8-2ba51e7dcf78" Title="SimpleInjectorControllerActivator Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator.htm">
+  <HelpTOCNode Id="96976cc3-bc00-4694-9527-c77c590143d5" Title="SimpleInjector.Integration.AspNetCore.Mvc" Url="html/N_SimpleInjector_Integration_AspNetCore_Mvc.htm">
+    <HelpTOCNode Id="31b52383-11a0-46bf-8112-017b099b580a" Title="SimpleInjectorControllerActivator Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator.htm">
       <HelpTOCNode Title="SimpleInjectorControllerActivator Constructor " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator__ctor.htm" />
-      <HelpTOCNode Id="1c725b9c-6213-4af1-835b-352882db06c6" Title="SimpleInjectorControllerActivator Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator.htm">
+      <HelpTOCNode Id="14bbf6e2-2e8d-466e-b1c7-028ead1714a2" Title="SimpleInjectorControllerActivator Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator.htm">
         <HelpTOCNode Title="Create Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator_Create.htm" />
         <HelpTOCNode Title="Release Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorControllerActivator_Release.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="28a67814-90e5-4443-8b8f-cacb8df585a1" Title="SimpleInjectorPageModelActivatorProvider Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider.htm">
+    <HelpTOCNode Id="f16bbe07-070d-43cd-a751-0d697a29e221" Title="SimpleInjectorPageModelActivatorProvider Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider.htm">
       <HelpTOCNode Title="SimpleInjectorPageModelActivatorProvider Constructor " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider__ctor.htm" />
-      <HelpTOCNode Id="d6e001b0-26c5-414c-b4a6-eddbb5b0613a" Title="SimpleInjectorPageModelActivatorProvider Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider.htm">
+      <HelpTOCNode Id="d5d59197-bf33-41c8-b32d-4d77e246fff0" Title="SimpleInjectorPageModelActivatorProvider Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider.htm">
         <HelpTOCNode Title="CreateActivator Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider_CreateActivator.htm" />
         <HelpTOCNode Title="CreateReleaser Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorPageModelActivatorProvider_CreateReleaser.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ac9d4bf7-226a-47f0-a074-a080c9066e8c" Title="SimpleInjectorTagHelperActivator Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator.htm">
-      <HelpTOCNode Id="66138169-07bb-48cf-a5da-401bad40f92c" Title="SimpleInjectorTagHelperActivator Constructor " Url="html/Overload_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator__ctor.htm">
+    <HelpTOCNode Id="b8d69898-00d5-41c3-ae77-bfcaa5f93870" Title="SimpleInjectorTagHelperActivator Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator.htm">
+      <HelpTOCNode Id="a662c833-15dd-4822-9913-c038e0566387" Title="SimpleInjectorTagHelperActivator Constructor " Url="html/Overload_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator__ctor.htm">
         <HelpTOCNode Title="SimpleInjectorTagHelperActivator Constructor (Container)" Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator__ctor.htm" />
         <HelpTOCNode Title="SimpleInjectorTagHelperActivator Constructor (Container, Predicate(Type), ITagHelperActivator)" Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c1461ff8-58ce-4b1d-84ee-6af6baf740ba" Title="SimpleInjectorTagHelperActivator Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator.htm">
+      <HelpTOCNode Id="ec7546ff-5fe4-4588-9186-153aa2603298" Title="SimpleInjectorTagHelperActivator Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator.htm">
         <HelpTOCNode Title="Create(TTagHelper) Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorTagHelperActivator_Create__1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="41cd5c84-2e8c-4c42-8121-e2b90ccd8678" Title="SimpleInjectorViewComponentActivator Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator.htm">
+    <HelpTOCNode Id="33189fa0-3372-48ed-ab7d-9389d8d26a03" Title="SimpleInjectorViewComponentActivator Class" Url="html/T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator.htm">
       <HelpTOCNode Title="SimpleInjectorViewComponentActivator Constructor " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator__ctor.htm" />
-      <HelpTOCNode Id="c4dec4ff-282e-4889-b137-0e2e7780b142" Title="SimpleInjectorViewComponentActivator Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator.htm">
+      <HelpTOCNode Id="130980b1-e148-4270-a4b5-412ddf46d1af" Title="SimpleInjectorViewComponentActivator Methods" Url="html/Methods_T_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator.htm">
         <HelpTOCNode Title="Create Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator_Create.htm" />
         <HelpTOCNode Title="Release Method " Url="html/M_SimpleInjector_Integration_AspNetCore_Mvc_SimpleInjectorViewComponentActivator_Release.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a58f553a-8bcf-41e3-bc15-91504b72bf63" Title="SimpleInjector.Integration.ServiceCollection" Url="html/N_SimpleInjector_Integration_ServiceCollection.htm">
-    <HelpTOCNode Id="f0d0cd09-1e7f-4740-bc26-7aa543158053" Title="IServiceProviderAccessor Interface" Url="html/T_SimpleInjector_Integration_ServiceCollection_IServiceProviderAccessor.htm">
-      <HelpTOCNode Id="286d6f37-9966-444f-a268-024f1f7bd93e" Title="IServiceProviderAccessor Properties" Url="html/Properties_T_SimpleInjector_Integration_ServiceCollection_IServiceProviderAccessor.htm">
+  <HelpTOCNode Id="d2474c81-0946-4976-9746-358743b13598" Title="SimpleInjector.Integration.ServiceCollection" Url="html/N_SimpleInjector_Integration_ServiceCollection.htm">
+    <HelpTOCNode Id="38ceb8f9-dd10-46a4-98d6-366c5c728ee1" Title="IServiceProviderAccessor Interface" Url="html/T_SimpleInjector_Integration_ServiceCollection_IServiceProviderAccessor.htm">
+      <HelpTOCNode Id="3a155240-8a80-42a8-99ed-fcce0dfc098a" Title="IServiceProviderAccessor Properties" Url="html/Properties_T_SimpleInjector_Integration_ServiceCollection_IServiceProviderAccessor.htm">
         <HelpTOCNode Title="Current Property " Url="html/P_SimpleInjector_Integration_ServiceCollection_IServiceProviderAccessor_Current.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2397c125-c459-44ca-881f-ca34e7f6cebd" Title="SimpleInjectorAddOptions Class" Url="html/T_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions.htm">
-      <HelpTOCNode Id="99bdc408-fe23-4825-8266-a9931b2bd619" Title="SimpleInjectorAddOptions Properties" Url="html/Properties_T_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions.htm">
+    <HelpTOCNode Id="4f64f97e-bf85-4cf4-b9aa-6a7c9f9527b7" Title="SimpleInjectorAddOptions Class" Url="html/T_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions.htm">
+      <HelpTOCNode Id="7d78e928-27d4-4986-a68a-82a301288e83" Title="SimpleInjectorAddOptions Properties" Url="html/Properties_T_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions.htm">
         <HelpTOCNode Title="AutoCrossWireFrameworkComponents Property " Url="html/P_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions_AutoCrossWireFrameworkComponents.htm" />
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions_Container.htm" />
         <HelpTOCNode Title="DisposeContainerWithServiceProvider Property " Url="html/P_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions_DisposeContainerWithServiceProvider.htm" />
@@ -873,60 +873,60 @@
       <HelpTOCNode Title="SimpleInjectorAddOptions Methods" Url="html/Methods_T_SimpleInjector_Integration_ServiceCollection_SimpleInjectorAddOptions.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a2b76933-62e5-44e0-8720-2dd6b551f054" Title="SimpleInjector.Integration.Web" Url="html/N_SimpleInjector_Integration_Web.htm">
-    <HelpTOCNode Id="8d6b0ed6-a4a9-4af0-8d25-b7bf4ad3cfca" Title="SimpleInjectorHttpModule Class" Url="html/T_SimpleInjector_Integration_Web_SimpleInjectorHttpModule.htm">
+  <HelpTOCNode Id="6ab6c795-ce78-47c7-8506-1cb1225c2437" Title="SimpleInjector.Integration.Web" Url="html/N_SimpleInjector_Integration_Web.htm">
+    <HelpTOCNode Id="981907b5-80a1-4f20-8af2-0f4eaaf70a79" Title="SimpleInjectorHttpModule Class" Url="html/T_SimpleInjector_Integration_Web_SimpleInjectorHttpModule.htm">
       <HelpTOCNode Title="SimpleInjectorHttpModule Constructor " Url="html/M_SimpleInjector_Integration_Web_SimpleInjectorHttpModule__ctor.htm" />
-      <HelpTOCNode Id="fa734c0e-d469-46fe-ac01-d39392e82094" Title="SimpleInjectorHttpModule Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_SimpleInjectorHttpModule.htm">
+      <HelpTOCNode Id="f1d24c2f-6347-4f51-bbf4-18decf47cac9" Title="SimpleInjectorHttpModule Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_SimpleInjectorHttpModule.htm">
         <HelpTOCNode Title="IHttpModule.Dispose Method " Url="html/M_SimpleInjector_Integration_Web_SimpleInjectorHttpModule_System_Web_IHttpModule_Dispose.htm" />
         <HelpTOCNode Title="IHttpModule.Init Method " Url="html/M_SimpleInjector_Integration_Web_SimpleInjectorHttpModule_System_Web_IHttpModule_Init.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e24dcd14-49e6-428d-b364-5b365b249403" Title="SimpleInjectorWebInitializer Class" Url="html/T_SimpleInjector_Integration_Web_SimpleInjectorWebInitializer.htm">
-      <HelpTOCNode Id="9d8762b7-a739-442b-b583-39d9e8501b10" Title="SimpleInjectorWebInitializer Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_SimpleInjectorWebInitializer.htm">
+    <HelpTOCNode Id="a99da7a7-a0d2-4f04-a839-074524382bd7" Title="SimpleInjectorWebInitializer Class" Url="html/T_SimpleInjector_Integration_Web_SimpleInjectorWebInitializer.htm">
+      <HelpTOCNode Id="4d8f74e4-924f-4128-84ad-25f51fc798d0" Title="SimpleInjectorWebInitializer Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_SimpleInjectorWebInitializer.htm">
         <HelpTOCNode Title="Initialize Method " Url="html/M_SimpleInjector_Integration_Web_SimpleInjectorWebInitializer_Initialize.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6c862ef3-22de-4557-90ce-de7dffb71b9d" Title="WebRequestLifestyle Class" Url="html/T_SimpleInjector_Integration_Web_WebRequestLifestyle.htm">
-      <HelpTOCNode Id="66b96cbb-8686-4d7a-a249-64f6fc15e041" Title="WebRequestLifestyle Constructor " Url="html/Overload_SimpleInjector_Integration_Web_WebRequestLifestyle__ctor.htm">
+    <HelpTOCNode Id="2e1348e3-b244-499f-ab35-1292ab8f7921" Title="WebRequestLifestyle Class" Url="html/T_SimpleInjector_Integration_Web_WebRequestLifestyle.htm">
+      <HelpTOCNode Id="d4a09f10-0320-47ec-81db-76e6b51a0d98" Title="WebRequestLifestyle Constructor " Url="html/Overload_SimpleInjector_Integration_Web_WebRequestLifestyle__ctor.htm">
         <HelpTOCNode Title="WebRequestLifestyle Constructor " Url="html/M_SimpleInjector_Integration_Web_WebRequestLifestyle__ctor.htm" />
         <HelpTOCNode Title="WebRequestLifestyle Constructor (Boolean)" Url="html/M_SimpleInjector_Integration_Web_WebRequestLifestyle__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="WebRequestLifestyle Properties" Url="html/Properties_T_SimpleInjector_Integration_Web_WebRequestLifestyle.htm" />
-      <HelpTOCNode Id="60c96bf2-f3b2-42d3-80f9-9a77085585ff" Title="WebRequestLifestyle Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_WebRequestLifestyle.htm">
+      <HelpTOCNode Id="28d55cd1-c9fa-41f7-b2d0-fa104c6b7462" Title="WebRequestLifestyle Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_WebRequestLifestyle.htm">
         <HelpTOCNode Title="CreateCurrentScopeProvider Method " Url="html/M_SimpleInjector_Integration_Web_WebRequestLifestyle_CreateCurrentScopeProvider.htm" />
         <HelpTOCNode Title="GetCurrentScopeCore Method " Url="html/M_SimpleInjector_Integration_Web_WebRequestLifestyle_GetCurrentScopeCore.htm" />
         <HelpTOCNode Title="WhenCurrentRequestEnds Method " Url="html/M_SimpleInjector_Integration_Web_WebRequestLifestyle_WhenCurrentRequestEnds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="353ca08f-32f5-47ac-9618-5a9a2e41d4e7" Title="SimpleInjector.Integration.Web.Mvc" Url="html/N_SimpleInjector_Integration_Web_Mvc.htm">
-    <HelpTOCNode Id="ef9675d0-bf3b-4be7-82ac-0e32eb91310a" Title="SimpleInjectorDependencyResolver Class" Url="html/T_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver.htm">
+  <HelpTOCNode Id="2800220c-c3d0-4638-8f5b-d1f2b48c613b" Title="SimpleInjector.Integration.Web.Mvc" Url="html/N_SimpleInjector_Integration_Web_Mvc.htm">
+    <HelpTOCNode Id="2ddbaf49-1886-4f30-bc88-0fd99c5b0dbb" Title="SimpleInjectorDependencyResolver Class" Url="html/T_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver.htm">
       <HelpTOCNode Title="SimpleInjectorDependencyResolver Constructor " Url="html/M_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver__ctor.htm" />
-      <HelpTOCNode Id="94bcc52b-ace3-4e27-a806-3cf04739184d" Title="SimpleInjectorDependencyResolver Properties" Url="html/Properties_T_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver.htm">
+      <HelpTOCNode Id="9fa63ac3-31e6-4682-8747-c0878a919545" Title="SimpleInjectorDependencyResolver Properties" Url="html/Properties_T_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver.htm">
         <HelpTOCNode Title="Container Property " Url="html/P_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver_Container.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="82f5a6cf-0daf-4757-a730-3e4cddeb7fa8" Title="SimpleInjectorDependencyResolver Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver.htm">
+      <HelpTOCNode Id="0b39bbd5-21ee-4a38-bbcb-7c5ae58f126d" Title="SimpleInjectorDependencyResolver Methods" Url="html/Methods_T_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver.htm">
         <HelpTOCNode Title="GetService Method " Url="html/M_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver_GetService.htm" />
         <HelpTOCNode Title="GetServices Method " Url="html/M_SimpleInjector_Integration_Web_Mvc_SimpleInjectorDependencyResolver_GetServices.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="68b8b267-b652-4204-a3c0-223dc40d9ba7" Title="SimpleInjector.Integration.WebApi" Url="html/N_SimpleInjector_Integration_WebApi.htm">
+  <HelpTOCNode Id="acb85a3d-d235-4b73-be37-e0257c66b63e" Title="SimpleInjector.Integration.WebApi" Url="html/N_SimpleInjector_Integration_WebApi.htm">
     <HelpTOCNode Title="DependencyResolverScopeOption Enumeration" Url="html/T_SimpleInjector_Integration_WebApi_DependencyResolverScopeOption.htm" />
-    <HelpTOCNode Id="872d3593-9c27-42e8-9899-e398546e9014" Title="SimpleInjectorWebApiDependencyResolver Class" Url="html/T_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver.htm">
-      <HelpTOCNode Id="16019a07-f2e1-4985-83fc-7c0c6d2cd679" Title="SimpleInjectorWebApiDependencyResolver Constructor " Url="html/Overload_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver__ctor.htm">
+    <HelpTOCNode Id="10451bc4-993c-4624-9fe6-a95895c21a85" Title="SimpleInjectorWebApiDependencyResolver Class" Url="html/T_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver.htm">
+      <HelpTOCNode Id="476bb4e0-7f83-4741-9cb8-ee38f9f8c4bc" Title="SimpleInjectorWebApiDependencyResolver Constructor " Url="html/Overload_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver__ctor.htm">
         <HelpTOCNode Title="SimpleInjectorWebApiDependencyResolver Constructor (Container)" Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver__ctor.htm" />
         <HelpTOCNode Title="SimpleInjectorWebApiDependencyResolver Constructor (Container, DependencyResolverScopeOption)" Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="61be5b45-8aeb-46c0-8754-e5d37fb2a06f" Title="SimpleInjectorWebApiDependencyResolver Methods" Url="html/Methods_T_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver.htm">
+      <HelpTOCNode Id="14da24d4-d380-4a22-a222-ca3f36ebabef" Title="SimpleInjectorWebApiDependencyResolver Methods" Url="html/Methods_T_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver.htm">
         <HelpTOCNode Title="IDependencyResolver.BeginScope Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyResolver_BeginScope.htm" />
         <HelpTOCNode Title="IDependencyScope.Type) Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyScope_GetService.htm" />
         <HelpTOCNode Title="IDependencyScope.Type) Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_System_Web_Http_Dependencies_IDependencyScope_GetServices.htm" />
         <HelpTOCNode Title="Dispose Method " Url="html/M_SimpleInjector_Integration_WebApi_SimpleInjectorWebApiDependencyResolver_Dispose.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="05bcf8dc-02ac-4a8c-b448-3a94129ff853" Title="WebApiRequestLifestyle Class" Url="html/T_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle.htm">
-      <HelpTOCNode Id="ef756723-298f-4a30-9307-9be68654f00e" Title="WebApiRequestLifestyle Constructor " Url="html/Overload_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle__ctor.htm">
+    <HelpTOCNode Id="63478bbf-f7e8-4745-aed5-11786f7bd218" Title="WebApiRequestLifestyle Class" Url="html/T_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle.htm">
+      <HelpTOCNode Id="b7cea317-fbe2-4c47-9081-064ea6b0a31f" Title="WebApiRequestLifestyle Constructor " Url="html/Overload_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle__ctor.htm">
         <HelpTOCNode Title="WebApiRequestLifestyle Constructor " Url="html/M_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle__ctor.htm" />
         <HelpTOCNode Title="WebApiRequestLifestyle Constructor (Boolean)" Url="html/M_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle__ctor_1.htm" />
       </HelpTOCNode>
@@ -934,29 +934,29 @@
       <HelpTOCNode Title="WebApiRequestLifestyle Methods" Url="html/Methods_T_SimpleInjector_Integration_WebApi_WebApiRequestLifestyle.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="f9b7bb21-bdc7-40d6-b8c5-4443cde23e03" Title="SimpleInjector.Lifestyles" Url="html/N_SimpleInjector_Lifestyles.htm">
-    <HelpTOCNode Id="fd46e234-eb74-4e54-bbc0-d9dc019aaf15" Title="AsyncScopedLifestyle Class" Url="html/T_SimpleInjector_Lifestyles_AsyncScopedLifestyle.htm">
+  <HelpTOCNode Id="02af7cda-212d-4ab6-867d-8eb46ec5f7f4" Title="SimpleInjector.Lifestyles" Url="html/N_SimpleInjector_Lifestyles.htm">
+    <HelpTOCNode Id="515442d9-e43c-46a5-8e97-0b8503d86f8e" Title="AsyncScopedLifestyle Class" Url="html/T_SimpleInjector_Lifestyles_AsyncScopedLifestyle.htm">
       <HelpTOCNode Title="AsyncScopedLifestyle Constructor " Url="html/M_SimpleInjector_Lifestyles_AsyncScopedLifestyle__ctor.htm" />
       <HelpTOCNode Title="AsyncScopedLifestyle Properties" Url="html/Properties_T_SimpleInjector_Lifestyles_AsyncScopedLifestyle.htm" />
-      <HelpTOCNode Id="8902ada1-3bbe-413a-9a88-8b5a45e45f29" Title="AsyncScopedLifestyle Methods" Url="html/Methods_T_SimpleInjector_Lifestyles_AsyncScopedLifestyle.htm">
+      <HelpTOCNode Id="e4ec9d5d-3356-41ac-84c8-e92a730cd07a" Title="AsyncScopedLifestyle Methods" Url="html/Methods_T_SimpleInjector_Lifestyles_AsyncScopedLifestyle.htm">
         <HelpTOCNode Title="BeginScope Method " Url="html/M_SimpleInjector_Lifestyles_AsyncScopedLifestyle_BeginScope.htm" />
         <HelpTOCNode Title="CreateCurrentScopeProvider Method " Url="html/M_SimpleInjector_Lifestyles_AsyncScopedLifestyle_CreateCurrentScopeProvider.htm" />
         <HelpTOCNode Title="GetCurrentScopeCore Method " Url="html/M_SimpleInjector_Lifestyles_AsyncScopedLifestyle_GetCurrentScopeCore.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="77f9cf70-5922-4f53-b452-cefb56a38499" Title="ThreadScopedLifestyle Class" Url="html/T_SimpleInjector_Lifestyles_ThreadScopedLifestyle.htm">
+    <HelpTOCNode Id="ea5ea24b-92d7-4264-9799-fd2f8b0937fb" Title="ThreadScopedLifestyle Class" Url="html/T_SimpleInjector_Lifestyles_ThreadScopedLifestyle.htm">
       <HelpTOCNode Title="ThreadScopedLifestyle Constructor " Url="html/M_SimpleInjector_Lifestyles_ThreadScopedLifestyle__ctor.htm" />
       <HelpTOCNode Title="ThreadScopedLifestyle Properties" Url="html/Properties_T_SimpleInjector_Lifestyles_ThreadScopedLifestyle.htm" />
-      <HelpTOCNode Id="92e03aeb-e404-4aa5-8243-616f19ba7df8" Title="ThreadScopedLifestyle Methods" Url="html/Methods_T_SimpleInjector_Lifestyles_ThreadScopedLifestyle.htm">
+      <HelpTOCNode Id="dee30c83-83cd-40e7-8c80-0fb1d5c6821e" Title="ThreadScopedLifestyle Methods" Url="html/Methods_T_SimpleInjector_Lifestyles_ThreadScopedLifestyle.htm">
         <HelpTOCNode Title="BeginScope Method " Url="html/M_SimpleInjector_Lifestyles_ThreadScopedLifestyle_BeginScope.htm" />
         <HelpTOCNode Title="CreateCurrentScopeProvider Method " Url="html/M_SimpleInjector_Lifestyles_ThreadScopedLifestyle_CreateCurrentScopeProvider.htm" />
         <HelpTOCNode Title="GetCurrentScopeCore Method " Url="html/M_SimpleInjector_Lifestyles_ThreadScopedLifestyle_GetCurrentScopeCore.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="2f04e107-c860-4e98-a8fa-7892886a0ef5" Title="SimpleInjector.Packaging" Url="html/N_SimpleInjector_Packaging.htm">
-    <HelpTOCNode Id="579a674a-a760-484b-b27b-7a9896468d87" Title="IPackage Interface" Url="html/T_SimpleInjector_Packaging_IPackage.htm">
-      <HelpTOCNode Id="a7f2b83a-31d8-48a2-b88c-2279546ad78b" Title="IPackage Methods" Url="html/Methods_T_SimpleInjector_Packaging_IPackage.htm">
+  <HelpTOCNode Id="79641e39-c38e-4fb2-be19-6465a8201d40" Title="SimpleInjector.Packaging" Url="html/N_SimpleInjector_Packaging.htm">
+    <HelpTOCNode Id="fa45e29e-380a-43f5-a542-2253919689bf" Title="IPackage Interface" Url="html/T_SimpleInjector_Packaging_IPackage.htm">
+      <HelpTOCNode Id="b93c7664-6a9b-4504-9982-e8c9535f5055" Title="IPackage Methods" Url="html/Methods_T_SimpleInjector_Packaging_IPackage.htm">
         <HelpTOCNode Title="RegisterServices Method " Url="html/M_SimpleInjector_Packaging_IPackage_RegisterServices.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
