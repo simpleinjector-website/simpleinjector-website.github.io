@@ -109,11 +109,11 @@ registering-plugins-dynamically	https://simpleinjector.readthedocs.io/en/latest/
 # Exception message redirects
 depr1	https://simpleinjector.readthedocs.io/en/2.8/injectproperties-is-deprecated.html
 depr2	https://simpleinjector.readthedocs.io/en/2.8/registermvcattributefilterprovider-is-deprecated.html
-depr3	https://simpleinjector.readthedocs.io/en/latest/injectionconsumerinfo-servicetype-is-deprecated.html
+depr3	https://simpleinjector.readthedocs.io/en/4.0/injectionconsumerinfo-servicetype-is-deprecated.html
 coll1	https://simpleinjector.readthedocs.io/en/latest/using.html#collections
 ovrrd	https://simpleinjector.readthedocs.io/en/latest/howto.html#override-existing-registrations
 pipel	https://simpleinjector.readthedocs.io/en/latest/pipeline.html
-xtppr	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#property-injection
+xtppr	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-property-injection-behavior
 xtpcr	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-constructor-resolution-behavior
 xtppi	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-parameter-injection-behavior
 xtpls	https://simpleinjector.readthedocs.io/en/latest/extensibility.html#overriding-lifestyle-selection-behavior
@@ -125,4 +125,4 @@ diatl	https://simpleinjector.readthedocs.io/en/latest/tornlifestyle.html
 diadt	https://simpleinjector.readthedocs.io/en/latest/disposabletransientcomponent.html
 diaal	https://simpleinjector.readthedocs.io/en/latest/ambiguouslifestyles.html
 await	https://simpleinjector.readthedocs.io/en/latest/lifetimes.html#asyncscoped
-asmld	https://simpleinjector.readthedocs.io/en/latest/assembly-loading-resolution-conflicts.html" 
+asmld	https://simpleinjector.readthedocs.io/en/latest/assembly-loading-resolution-conflicts.html
