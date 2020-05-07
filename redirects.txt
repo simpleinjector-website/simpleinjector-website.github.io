@@ -9,6 +9,15 @@ collections	https://simpleinjector.readthedocs.io/en/latest/using.html#collectio
 generics	https://simpleinjector.readthedocs.io/en/latest/advanced.html#generics
 decorators	https://simpleinjector.readthedocs.io/en/latest/aop.html#decoration
 aop	https://simpleinjector.readthedocs.io/en/latest/aop.html
+aop+decoration	https://simpleinjector.readthedocs.io/en/latest/aop.html#decoration
+aop+applying-decorators-conditionally	https://simpleinjector.readthedocs.io/en/latest/aop.html#applying-decorators-conditionally
+aop+applying-decorators-conditionally-using-type-constraints	https://simpleinjector.readthedocs.io/en/latest/aop.html#applying-decorators-conditionally-using-type-constraints
+aop+decorators-with-func-t-decoratee-factories	https://simpleinjector.readthedocs.io/en/latest/aop.html#decorators-with-func-t-decoratee-factories
+aop+decorated-collections	https://simpleinjector.readthedocs.io/en/latest/aop.html#decorated-collections
+aop+using-contextual-information-inside-decorators	https://simpleinjector.readthedocs.io/en/latest/aop.html#using-contextual-information-inside-decorators
+aop+applying-decorators-conditionally-based-on-consumer	https://simpleinjector.readthedocs.io/en/latest/aop.html#applying-decorators-conditionally-based-on-consumer
+aop+decorator-registration-factories	https://simpleinjector.readthedocs.io/en/latest/aop.html#decorator-registration-factories
+aop+interception	https://simpleinjector.readthedocs.io/en/latest/aop.html#interception
 diagnostics	https://simpleinjector.readthedocs.io/en/latest/diagnostics.html
 suppress	https://simpleinjector.readthedocs.io/en/latest/diagnostics.html#suppressing-warnings
 lifetimes	https://simpleinjector.readthedocs.io/en/latest/lifetimes.html
