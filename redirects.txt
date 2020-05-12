@@ -62,6 +62,8 @@ forum	https://github.com/simpleinjector/SimpleInjector/labels/question
 issues	https://github.com/simpleinjector/SimpleInjector/issues
 contribute	https://simpleinjector.readthedocs.io/en/latest/contribute.html
 integration	https://simpleinjector.readthedocs.io/en/latest/integration.html
+integration+other-technologies	https://simpleinjector.readthedocs.io/en/latest/integration.html#other-technologies
+integration+patterns	https://simpleinjector.readthedocs.io/en/latest/integration.html#patterns
 wcf	https://simpleinjector.readthedocs.io/en/latest/wcfintegration.html
 webapi	https://simpleinjector.readthedocs.io/en/latest/webapiintegration.html
 mvc	https://simpleinjector.readthedocs.io/en/latest/mvcintegration.html
