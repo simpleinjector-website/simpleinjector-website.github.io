@@ -51,6 +51,7 @@ advanced+enabling-property-injection	https://simpleinjector.readthedocs.io/en/la
 advanced+ipropertyselectionbehavior	https://simpleinjector.readthedocs.io/en/latest/advanced.html#ipropertyselectionbehavior
 advanced+covariance-and-contravariance	https://simpleinjector.readthedocs.io/en/latest/advanced.html#covariance-and-contravariance
 advanced+registering-plugins-dynamically	https://simpleinjector.readthedocs.io/en/latest/advanced.html#registering-plugins-dynamically
+advanced+metadata	https://simpleinjector.readthedocs.io/en/latest/advanced.html#metadata
 wiki	https://simpleinjector.readthedocs.io/en/latest/index.html
 api	https://simpleinjector.org/ReferenceLibrary
 license	https://github.com/simpleinjector/SimpleInjector/blob/master/LICENSE
