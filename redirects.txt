@@ -68,6 +68,7 @@ integration+patterns	https://simpleinjector.readthedocs.io/en/latest/integration
 wcf	https://simpleinjector.readthedocs.io/en/latest/wcfintegration.html
 webapi	https://simpleinjector.readthedocs.io/en/latest/webapiintegration.html
 mvc	https://simpleinjector.readthedocs.io/en/latest/mvcintegration.html
+wpf	https://simpleinjector.readthedocs.io/en/latest/wpfintegration.html
 aspnet5	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html
 aspnetcore	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html
 generichost	https://simpleinjector.readthedocs.io/en/latest/generichostintegration.html
