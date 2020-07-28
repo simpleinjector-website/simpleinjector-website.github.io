@@ -71,6 +71,7 @@ mvc	https://simpleinjector.readthedocs.io/en/latest/mvcintegration.html
 wpf	https://simpleinjector.readthedocs.io/en/latest/wpfintegration.html
 aspnet5	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html
 aspnetcore	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html
+aspnetcore+servicescope-reuse-behavior	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html#overriding-the-default-iservicescope-reuse-behavior
 generichost	https://simpleinjector.readthedocs.io/en/latest/generichostintegration.html
 servicecollection	https://simpleinjector.readthedocs.io/en/latest/servicecollectionintegration.html
 servicecollection+cross-wiring	https://simpleinjector.readthedocs.io/en/latest/servicecollectionintegration.html#cross-wiring-framework-and-third-party-services
