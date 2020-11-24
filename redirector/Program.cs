@@ -27,11 +27,11 @@ namespace redirector
                 string templateWithoutHashRedirect = File.ReadAllText(templateFileWithoutHashRedirect);
 
                 var mappings =
-                    from line in File.ReadAllLines(mappingsFile)
+                    from lineIndex in File.ReadAllLines(mappingsFile).Select((line, index) => (line, index))
+                    let line = lineIndex.line
                     where !string.IsNullOrWhiteSpace(line)
                     where !line.TrimStart().StartsWith("#")
-                    let pair = line.Split('\t')
-                    select new { path = pair[0], target = pair[1] };
+                    select Extract(line, lineIndex.index);
 
                 var duplicates =
                     from mapping in mappings
@@ -56,6 +56,22 @@ namespace redirector
                         contents: template.Replace("{url}", mapping.target));
                 }
             }
+        }
+
+        private static (string path, string target) Extract(string line, int index)
+        {
+            var pair = line.Split('\t');
+
+            if (pair.Length < 2) throw new FormatException(
+                $"Target missing from line {index + 1}. No tab character found.");
+
+            if (string.IsNullOrWhiteSpace(pair[0])) throw new FormatException(
+                 $"Path missing from line {index + 1}. Only white space found before the tab character.");
+
+            if (string.IsNullOrWhiteSpace(pair[1])) throw new FormatException(
+                 $"Target missing from line {index + 1}. Only white space found after the tab character.");
+
+            return (pair[0], pair[1]);
         }
     }
 }
