@@ -93,6 +93,7 @@ wpf	https://simpleinjector.readthedocs.io/en/latest/wpfintegration.html
 aspnet5	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html
 aspnetcore	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html
 blazor	https://simpleinjector.readthedocs.io/en/latest/blazorintegration.html
+azurefunctions	https://simpleinjector.readthedocs.io/en/latest/azurefunctionsintegration.html
 aspnetcore+servicescope-reuse-behavior	https://simpleinjector.readthedocs.io/en/latest/aspnetintegration.html#overriding-the-default-iservicescope-reuse-behavior
 generichost	https://simpleinjector.readthedocs.io/en/latest/generichostintegration.html
 servicecollection	https://simpleinjector.readthedocs.io/en/latest/servicecollectionintegration.html
