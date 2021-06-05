@@ -26,6 +26,7 @@ lifestyles	https://docs.simpleinjector.org/en/latest/lifetimes.html
 lifestyles+transient	https://docs.simpleinjector.org/en/latest/lifetimes.html#transient-lifestyle
 lifestyles+singleton	https://docs.simpleinjector.org/en/latest/lifetimes.html#singleton-lifestyle
 lifestyles+scoped	https://docs.simpleinjector.org/en/latest/lifetimes.html#scoped-lifestyle
+lifestyles+flowing-scopes	https://docs.simpleinjector.org/en/latest/lifetimes.html#flowing-scopes
 lifestyles+asynchronous-disposal	https://docs.simpleinjector.org/en/latest/lifetimes.html#asynchronous-disposal
 lifestyles+order-of-disposal	https://docs.simpleinjector.org/en/latest/lifetimes.html#order-of-disposal
 lifestyles+thread-scoped-lifestyle	https://docs.simpleinjector.org/en/latest/lifetimes.html#thread-scoped-lifestyle
