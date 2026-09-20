@@ -1,1 +1,1 @@
-dotnet redirector/redirector.dll redirects.txt redirector/redirecttemplate.html redirector/redirecttemplatewithouthash.html 
+redirector\Redirector.exe redirects.txt redirector\redirecttemplate.html redirector\redirecttemplatewithouthash.html
