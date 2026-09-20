@@ -166,3 +166,4 @@ diaal	https://docs.simpleinjector.org/en/latest/ambiguouslifestyles.html
 await	https://docs.simpleinjector.org/en/latest/lifetimes.html#asyncscoped
 asmld	https://docs.simpleinjector.org/en/latest/assembly-loading-resolution-conflicts.html
 ructd	https://docs.simpleinjector.org/en/latest/resolving-unregistered-concrete-types-is-disallowed-by-default.html
+com	https://docs.simpleinjector.org/en/latest/com-objects.html
