@@ -163,6 +163,7 @@ diasr	https://docs.simpleinjector.org/en/latest/PotentialSingleResponsibilityVio
 diatl	https://docs.simpleinjector.org/en/latest/tornlifestyle.html
 diadt	https://docs.simpleinjector.org/en/latest/disposabletransientcomponent.html
 diaal	https://docs.simpleinjector.org/en/latest/ambiguouslifestyles.html
+diauc	https://docs.simpleinjector.org/en/latest/unusedconditionalregistrations.html
 await	https://docs.simpleinjector.org/en/latest/lifetimes.html#asyncscoped
 asmld	https://docs.simpleinjector.org/en/latest/assembly-loading-resolution-conflicts.html
 ructd	https://docs.simpleinjector.org/en/latest/resolving-unregistered-concrete-types-is-disallowed-by-default.html
